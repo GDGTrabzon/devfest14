@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Trabzon 2014"
+title: "GDG DevFest Trabzon 2015"
 email: "info@gdgtrabzon.com"
 description: "GDG DevFest - the Google related event in Turkey"
 baseurl: ""
