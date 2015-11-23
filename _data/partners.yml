@@ -2,67 +2,67 @@
   group: "Festival sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/",imageUrl: "google.svg"}
-    - {width: "200px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
--
-  group: "Diamond sponsor"
-  elements:
-    - {name: "Intel", imageUrl: "intel.png", description: "Intel: Tablet, 2in1, Laptop, Desktop, Smartphone, Server, Embedded", link: "http://www.intel.com"}
--
-  group: "Platin sponsor"
-  elements:
-    - {name: "FIT", imageUrl: "fit.png", description: "FIT Solutions | SAP Partner | e-Dönüşüm | e-Fatura | e-Defter | e-imza | e-Arşiv", link: "http://www.fitsolutions.com.tr"}
--
-  group: "Session sponsor"
-  elements:
-    - {name: "Peak Games", imageUrl: "peak.png", description: "Peak Games | Living Through Games", link: "http://www.peakgames.net"}
--
-  group: "Transportation sponsor"
-  elements:
-    - {name: "Uber", imageUrl: "uber.png", description: "Uber", link: "https://www.uber.com"}
--
-  group: "Entertainment sponsor"
-  elements:
-    - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
--
-  group: "PR&Communication Sponsor"
-  elements:
-    - {name: "NomPlus", description: "NomPlus", link: "http://www.nomplus.com.tr", imageUrl: "nomplus.jpg"}
--
-  group: "With support of"
-  elements: 
-    - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
-    - {name: "Vaadin", description: "Vaadin", link: "http://www.vaadin.com", imageUrl: "vaadin.jpg"}
-    - {name: "IDR Solutions", description: "PDF to HTML5,  Java PDF Viewer,  Java PDF Library", link: "https://www.idrsolutions.com", imageUrl: "idr.jpg"}
-    - {name: "NetBeans", description: "NetBeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
-    - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
-    - {name: "ionCube", description: "PHP Encoder, protection, installer and performance tools from ionCube", link: "http://www.ioncube.com", imageUrl: "ioncube.png"}
-    - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
-    - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
-    - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
-    - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
-    - {name: "Rekmob", description: "Rekmob", link: "http://www.rekmob.com", imageUrl: "rekmob.png"}
-    - {name: "Dikeyeksen", description: "Dikeyeksen", link: "http://www.dikeyeksen.com", imageUrl: "dikeyeksen.png"}
-    - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
-    - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
-    - {name: "Yemeksepeti", description: "Yemek Sepeti - pizza, kebap, fast food, diyet, hamburger, balık, köfte, pide ve her türlü restorandan paket servis yemek siparişi", link: "http://www.yemeksepeti.com", imageUrl: "yemeksepeti.png"}
-    - {name: "Robotistan", description: "Türkiye'nin En Büyük Robotik Marketi | Robot Malzemeleri | Arduino | Pololu | Raspberry Pi | Beagleboard", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
-    - {name: "Priyoid", description: "Priyoid - Print Your Idea - 3D Yazıcı Teknolojisi - 3D Yazıcı", link: "http://www.priyoid.com/", imageUrl: "priyoid.png"}
-    - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
-    - {name: "Teknoloji Çözümleri Merkezi", description: "Teknoloji Çözümleri Merkezi", link: "http://www.tcm.com.tr", imageUrl: "tcm.png"}
-    - {name: "Arasokak", description: "Arasokak", link: "http://www.arasokakistanbul.com/", imageUrl: "arasokak.jpg"}
-    - {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
-    - {name: "Kaft", description: "Kaft", link: "http://www.kaft.com/", imageUrl: "kaft.png"}
--
-  group: "Publicity partners"
-  elements: 
-    - {width: "100px",name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
-    - {name: "ShiftDelete.Net", description: "ShiftDelete.Net", link: "http://shiftdelete.net", imageUrl: "shiftdelete.png"}
-    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chip.png"}
-    - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
-    - {name: "Girişim Haber", description: "Girişim Haber", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg", width: "100px"}
-    - {name: "webtekno", description: "webtekno", link: "http://www.webtekno.com", imageUrl: "webtekno.png"}
-    - {name: "Sokak Röportajları", description: "Sokak Röportajları", link: "http://www.sokakroportajlari.com", imageUrl: "sokakroportajlari.png"}
--
-  group: "Coffee Break sponsor"
-  elements:
-    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
+    #- {width: "200px",name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
+#-
+#  group: "Diamond sponsor"
+#  elements:
+#    - {name: "Intel", imageUrl: "intel.png", description: "Intel: Tablet, 2in1, Laptop, Desktop, Smartphone, Server, Embedded", link: "http://www.intel.com"}
+#-
+#  group: "Platin sponsor"
+#  elements:
+#    - {name: "FIT", imageUrl: "fit.png", description: "FIT Solutions | SAP Partner | e-Dönüşüm | e-Fatura | e-Defter | e-imza | e-Arşiv", link: "http://www.fitsolutions.com.tr"}
+#-
+#  group: "Session sponsor"
+#  elements:
+#    - {name: "Peak Games", imageUrl: "peak.png", description: "Peak Games | Living Through Games", link: "http://www.peakgames.net"}
+#-
+#  group: "Transportation sponsor"
+#  elements:
+#    - {name: "Uber", imageUrl: "uber.png", description: "Uber", link: "https://www.uber.com"}
+#-
+#  group: "Entertainment sponsor"
+#  elements:
+#    - {name: "Codemodeon", description: "Codemodeon", link: "http://codemodeon.com", imageUrl: "codemodeon.png"}
+#-
+#  group: "PR&Communication Sponsor"
+#  elements:
+#    - {name: "NomPlus", description: "NomPlus", link: "http://www.nomplus.com.tr", imageUrl: "nomplus.jpg"}
+#-
+#  group: "With support of"
+#  elements: 
+#    - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com", imageUrl: "eteration.png"}
+#    - {name: "Vaadin", description: "Vaadin", link: "http://www.vaadin.com", imageUrl: "vaadin.jpg"}
+#    - {name: "IDR Solutions", description: "PDF to HTML5,  Java PDF Viewer,  Java PDF Library", link: "https://www.idrsolutions.com", imageUrl: "idr.jpg"}
+#    - {name: "NetBeans", description: "NetBeans", link: "https://netbeans.org/", imageUrl: "netbeans.png"}
+#   - {name: "EPIK", description: "UK Youth Minecraft geek network", link: "https://twitter.com/EPIKhub", imageUrl: "epik.png", width: "80px"}
+#    - {name: "ionCube", description: "PHP Encoder, protection, installer and performance tools from ionCube", link: "http://www.ioncube.com", imageUrl: "ioncube.png"}
+ #   - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+#    - {name: "ImmobilienScout24", description: "ImmobilienScout24", link: "http://www.immobilienscout24.de", imageUrl: "immobilienscout24.jpg"}
+#    - {name: "MongoDB", description: "MongoDB", link: "http://www.mongodb.org", imageUrl: "mongodb.jpeg"}
+#    - {name: "Valven", description: "Valven", link: "http://www.valven.com", imageUrl: "valven.png"}
+#    - {name: "Rekmob", description: "Rekmob", link: "http://www.rekmob.com", imageUrl: "rekmob.png"}
+#    - {name: "Dikeyeksen", description: "Dikeyeksen", link: "http://www.dikeyeksen.com", imageUrl: "dikeyeksen.png"}
+#    - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
+ #   - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
+#    - {name: "Yemeksepeti", description: "Yemek Sepeti - pizza, kebap, fast food, diyet, hamburger, balık, köfte, pide ve her türlü restorandan paket servis yemek siparişi", link: "http://www.yemeksepeti.com", imageUrl: "yemeksepeti.png"}
+#    - {name: "Robotistan", description: "Türkiye'nin En Büyük Robotik Marketi | Robot Malzemeleri | Arduino | Pololu | Raspberry Pi | Beagleboard", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
+#    - {name: "Priyoid", description: "Priyoid - Print Your Idea - 3D Yazıcı Teknolojisi - 3D Yazıcı", link: "http://www.priyoid.com/", imageUrl: "priyoid.png"}
+ #   - {name: "Smartface", description: "Smartface", link: "http://www.smartface.io/", imageUrl: "smartface.png"}
+ #   - {name: "Teknoloji Çözümleri Merkezi", description: "Teknoloji Çözümleri Merkezi", link: "http://www.tcm.com.tr", imageUrl: "tcm.png"}
+ #   - {name: "Arasokak", description: "Arasokak", link: "http://www.arasokakistanbul.com/", imageUrl: "arasokak.jpg"}
+ #   - {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
+ #   - {name: "Kaft", description: "Kaft", link: "http://www.kaft.com/", imageUrl: "kaft.png"}
+#-
+#  group: "Publicity partners"
+#  elements: 
+#    - {width: "100px",name: "TeknoSeyir", description: "TeknoSeyir", link: "http://www.teknoseyir.com", imageUrl: "teknoseyir.jpg"}
+#    - {name: "ShiftDelete.Net", description: "ShiftDelete.Net", link: "http://shiftdelete.net", imageUrl: "shiftdelete.png"}
+#    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chip.png"}
+#    - {name: "Indir", description: "Indir", link: "http://www.indir.com", imageUrl: "indir.png"}
+#    - {name: "Girişim Haber", description: "Girişim Haber", link: "http://www.girisimhaber.com/", imageUrl: "girisimhaber.jpg", width: "100px"}
+#    - {name: "webtekno", description: "webtekno", link: "http://www.webtekno.com", imageUrl: "webtekno.png"}
+#    - {name: "Sokak Röportajları", description: "Sokak Röportajları", link: "http://www.sokakroportajlari.com", imageUrl: "sokakroportajlari.png"}
+#-
+#  group: "Coffee Break sponsor"
+#  elements:
+#    - {name: "Gloria Jean's Coffee", description: "Gloria Jean's Coffee", link: "http://www.gloriajeans.com.tr", imageUrl: "gloriajeans.jpg"}
