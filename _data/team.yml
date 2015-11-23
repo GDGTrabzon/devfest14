@@ -10,6 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+Bilalcorbaciogluu"}
     - {name: "github", link: "http://github.com/bilalcorbacioglu"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/bilalcorbacioglu"}
 
 -
   id: 1
@@ -49,3 +50,4 @@
     - {name: "site", link: "http://www.aniliyidogan.com"}
     - {name: "twitter", link: "https://twitter.com/lifeis00FF00"}
     - {name: "github", link: "https://github.com/aniliyidogan"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/aniliyidogan"}
