@@ -5,65 +5,65 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Istanbul 2014"
-email: "info@gdgistanbul.com"
-description: "GDG DevFest - the biggest Google related event in Turkey"
+title: "GDG DevFest Trabzon 2014"
+email: "info@gdgtrabzon.com"
+description: "GDG DevFest - the Google related event in Turkey"
 baseurl: ""
-url: "http://devfesttr.com/"
+url: "http://devfesttrabzon.com/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-41931868-1"
-googleAnalyticsSiteUrl: "devfesttr.com"
+googleAnalyticsTrackingId: "UA-70420458-1"
+googleAnalyticsSiteUrl: "devfesttrabzon.com"
 
 # Organizer Info
-organizerName: "GDG Istanbul"
-organizerAlternateName: "Google Developer Group Istanbul"
+organizerName: "GDG Trabzon"
+organizerAlternateName: "Google Developer Group Trabzon"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "info@gdgistanbul.com"
+organizerEmail: "info@gdgtrazon.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgistanbul.com/"
+organizerLink: "http://gdgtrabzon.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, istanbul, devfesttr"
-twitterAccount: "@GDGIstanbul"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, trabzon, devfesttrabzon"
+twitterAccount: "@GDGTrabzon"
 socialImageSrcGooglePlus: "/img/seo/social_logo.png"
 socialImageSrcTwitter: "/img/seo/social_logo.png"
 socialImageSrcFacebook: "/img/seo/social_logo.png"
 
 
 # Documents
-c4pUrl: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
-c4sponsorsUrl: "/assets/devfest2014.pdf"
+#c4pUrl: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
+#c4sponsorsUrl: "/assets/devfest2014.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/organizers", text: "Organizers"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
- - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
-bottomNavigationLinks:
- - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
+# - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
+# - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
+#bottomNavigationLinks:
+# - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "6 December, 2014"
-typeoutTextValues: '"", "Conference", "Workshops", "Hackathon", "Istanbul"'
+typeoutTextValues: '"", "Conference", "Workshops", "Trabzon"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
- - {permalink: "/#tickets", text: "Register to event"}
+#heroButtons:
+# - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
+# - {permalink: "/#tickets", text: "Register to event"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Istanbul!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Trabzon!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Minecraft Workshop", image: "minecraft.png", text: "Are you or your kids into Minecraft? Did you know you can learn to mod it with Java and NetBeans IDE?" }
+# - {title: "Minecraft Workshop", image: "minecraft.png", text: "Are you or your kids into Minecraft? Did you know you can learn to mod it with Java and NetBeans IDE?" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -77,24 +77,24 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Uskudar Baglarbasi Kultur Merkezi"
-eventStreetAddress: "Selamiali Mh Eski Baglarbasi İETT garaji Baglarbasi, Uskudar, Istanbul"
-eventAddressLocality: "Istanbul"
-eventAddressLocalityRegion: "Uskudar"
+eventLocationName: "Prof. Dr. Osman Turan Culture and Congress Center"
+eventStreetAddress: "Karadeniz Teknik Üniversitesi, Trabzon"
+eventAddressLocality: "Trabzon"
+eventAddressLocalityRegion: "Ortahisar"
 eventAddressCountry: "Turkey"
 eventStartTime: "2014-12-06T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-12-06T20:00"
-eventPlaceCoordinates: "41.02385, 29.031556"
-mapCenterCoordinates: "41.02385, 29.031556"
-mapMobileCenterCoordinates: "41.02385, 29.031556"
+eventPlaceCoordinates: "40.9986541, 39.7647572"
+mapCenterCoordinates: "40.9986541, 39.7647572"
+mapMobileCenterCoordinates: "40.9986541, 39.7647572"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -108,36 +108,36 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
-ticketsTitle: "Please Register"
-ticketsOffers:
- -
-  name: "Free Ticket"
-  buyButtonLink: "http://devfesttr14.eventbrite.com"
-  buyButtonText: "Register"
-  validFrom: "2014-12-06T10:00"
-  validThrough: "2014-12-06T23:59"
- -
-  name: "Minecraft Hacking Workshop for KIDs"
-  buyButtonLink: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
-  buyButtonText: "Register"
-  validFrom: "2014-12-06T10:00"
-  validThrough: "2014-12-06T23:59"
+#ticketsTitle: "Please Register"
+#ticketsOffers:
+# -
+#  name: "Free Ticket"
+#  buyButtonLink: "http://devfesttr14.eventbrite.com"
+#  buyButtonText: "Register"
+#  validFrom: "2014-12-06T10:00"
+#  validThrough: "2014-12-06T23:59"
+# -
+#  name: "Minecraft Hacking Workshop for KIDs"
+#  buyButtonLink: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/"
+#  buyButtonText: "Register"
+#  validFrom: "2014-12-06T10:00"
+#  validThrough: "2014-12-06T23:59"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+Gdgistanbul", icon: "google-plus"}
- - {link: "https://twitter.com/GDGIstanbul", icon: "twitter"}
+ - {link: "https://plus.google.com/+GDGTrabzon", icon: "google-plus"}
+ - {link: "https://twitter.com/GDGTrabzon", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgistanbul.com", text: "GDG Istanbul"}
+   - {link: "http://gdgtrabzon.com", text: "GDG Trabzon"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@gdgistanbul.com", text: "info@gdgistanbul.com"}
+   - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
 # Blog
 blogTitle: "Latest news"
@@ -159,16 +159,16 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "41.02385,29.031556"
-logisticsMapMobileCenterCoordinates: "41.02385,29.031556"
+logisticsMapCenterCoordinates: "40.9986541, 39.7647572"
+logisticsMapMobileCenterCoordinates: "40.9986541, 39.7647572"
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Istanbul"
+directionDetailsImage: "backgroundtrbzn1.jpg"
+directionDetailsTitle: "Get around Trabzon"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is easily reachable by public transport. You can either take subway train or look for busses called "HAVATAŞ". More information is available at <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">airport website</a>.'}
- - {title: "Public Transit", information: 'You can either take subway train or look for busses called "HAVATAŞ". More information will be provided here to directly go to the venue.'}
- - {title: "Hotels", information: 'Istanbul has lots of great hotels and hostels. More information will be available later.'}
+# - {title: "From the Airport", information: 'Airport is easily reachable by public transport. You can either take subway train or look for busses called "HAVATAŞ". More information is available at <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">airport website</a>.'}
+# - {title: "Public Transit", information: 'You can either take subway train or look for busses called "HAVATAŞ". More information will be provided here to directly go to the venue.'}
+# - {title: "Hotels", information: 'Trabzon has lots of great hotels and hostels. More information will be available later.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
