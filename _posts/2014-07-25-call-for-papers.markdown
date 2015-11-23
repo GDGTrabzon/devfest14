@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2014-07-25 12:00:00
 isStaticPost: false
 ---
-DevFest Istanbul 2014 will be held 6th of December in one of the most beautiful cities in the world: Istanbul. If you want to be part of this great event and community go ahead and fill the form. 
+DevFest Trabzon 2015 will be held 6th of December in one of the most beautiful cities in the world: Trabzon. If you want to be part of this great event and community go ahead and fill the form. 
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -21,23 +21,15 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 ##### Android
 
 * Material Design
-* Android Wear
 * Cardboard
-* New Chromecast APIs and Android TV
-* Android Auto
-* Migration to ART
 * Project Volta
-* New Android Camera API
 
 ##### Web
 
 * Node.js and MongoDB
 * AngularJS
-* Dart
 * Polymer and WebComponents
 * Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
 
 
 ##### Cloud
@@ -50,12 +42,5 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://goo.gl/6du2Z4).
-__Deadline__ is November 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until November 15, 2014.<br/>
-
 #### Any questions? 
-Email organizers at [info@gdgistanbul.com](mailto:info@gdgistanbul.com)
+Email organizers at [info@gdgtrabzon.com](mailto:info@gdgtrabzon.com)

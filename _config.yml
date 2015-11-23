@@ -55,7 +55,7 @@ eventDate: "13 December, 2015"
 typeoutTextValues: '"", "Conference", "Workshops", "Conference", "Trabzon"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://devfesttrbzn15.eventbrite.com/", text: "Eventbrite"}
+# - {link: "http://devfesttrbzn15.eventbrite.com/", text: "Eventbrite"}
  - {permalink: "/#tickets", text: "Register to event"}
 
 # About Block
@@ -78,7 +78,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
