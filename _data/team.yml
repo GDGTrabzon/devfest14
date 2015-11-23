@@ -1,124 +1,51 @@
-- 
+-
   id: 0
-  name: "Murat"
-  surname: "Yener"
-  title: "Team Lead"
-  thumbnailUrl: MuratYener.jpg
+  name: "Bilal"
+  surname: "Çorbacıoğlu"
+  title: "Software Developer"
+  thumbnailUrl: bilalc.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+MuratYener"}
-    - {name: "twitter", link: "https://twitter.com/yenerm"}
-    - {name: "github", link: "https://github.com/yenerm"}
-    - {name: "site", link: "http://www.devchronicles.com/"}
-- 
+    - {name: "google-plus", link: "https://google.com/+Bilalcorbaciogluu"}
+    - {name: "github", link: "http://github.com/bilalcorbacioglu"}
+
+-
   id: 1
-  name: "Nilay"
-  surname: "Yener"
-  title: "Analyst, Product Owner"
-  thumbnailUrl: NilayYener.jpg
+  name: "Furkan"
+  surname: "İnciroğlu"
+  title: "System Administrator"
+  thumbnailUrl: furkani.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+NilayCoşkunYener"}
-    - {name: "twitter", link: "https://twitter.com/nlycskn"}
-- 
+    - {name: "google-plus", link: "https://plus.google.com/100965528595097792482"}
+    - {name: "github", link: "http://github.com/FurkanInciroglu"}
+
+-
   id: 2
-  name: "Salim"
-  surname: "Kayabasi"
-  title: "Software Developer"
-  thumbnailUrl: SalimKayabasi.jpg
+  name: "Dilşat Kübra"
+  surname: "Can"
+  title: "Analyst, Product Owner"
+  thumbnailUrl: dilsatc.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+SalimKAYABAŞI"}
-    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
-    - {name: "github", link: "http://github.com/salimkayabasi"}
-    - {name: "site", link: "http://salimkayabasi.com"}
-- 
-  id: 4
-  name: "Hasan"
-  surname: "Keklik"
-  title: "Android Developer"
-  thumbnailUrl: HasanKeklik.jpg
-  team: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
-    - {name: "twitter", link: "https://twitter.com/keklikhasan"}
-    - {name: "github", link: "https://github.com/keklikhasan"}
-- 
-  id: 5
-  name: "Said Tahsin"
-  surname: "Dane"
-  title: "Android Developer"
-  thumbnailUrl: SaidTahsinDane.jpg
-  team: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
-    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
-    - {name: "github", link: "https://github.com/tasomaniac"}
-    - {name: "site", link: "http://www.tasomaniac.com"}
+    - {name: "twitter", link: "https://twitter.com/dlsstcann"}
+
 -
-  id: 7
-  name: "Busra"
-  surname: "Deniz"
-  title: "Mobile Software Developer"
-  thumbnailUrl: BusraDeniz.jpg
-  team: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
-    - {name: "twitter", link: "https://twitter.com/busradeniz"}
-    - {name: "site", link: "http://www.busradeniz.com"}
--
-  id: 8
-  name: "Inci"
-  surname: "Bilgin"
+  id: 3
+  name: "Anıl"
+  surname: "İyidoğan"
   title: "Software Developer"
-  thumbnailUrl: InciBilgin.jpg
+  thumbnailUrl: anili.jpg
   team: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/111544553321439278692"}
-    - {name: "twitter", link: "https://twitter.com/bilinginci"}
-
--
- id: 9
- name: "Kaan"
- surname: "Mamikoglu"
- title : "Mobile Developer"
- company: "Akıllı Yazılım"
- thumbnailUrl: KaanMamikoglu.jpg
- team: true
- social:
-    - {name: "site", link: "https://iamkaan.com"}
-    - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
-    - {name: "github", link: "https://github.com/iamkaan"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/iamkaan"}
-
--
- id: 10
- name: "Yusuf"
- surname: "Çakmak"
- title: "Android Developer"
- company: "Akıllı Yazılım"
- thumbnailUrl: YusufCakmak.jpg
- team: true
- social:
-    - {name: "site", link: "http://blog.yusufcakmak.com/"}
-    - {name: "google-plus", link: "https://plus.google.com/+YusufÇakmak"}
-    - {name: "twitter", link: "https://twitter.com/yukocan"}
-
--
-  id: 11
-  name: "Caner"
-  surname: "Yıldırım"
-  title: "Android Developer"
-  thumbnailUrl: CanerYildirim.jpg
-  team: true
-  social:
-    - {name: "site", link: "http://protechman.net/"}
-    - {name: "google-plus", link: "https://plus.google.com/107030277691710062122/"}
-    - {name: "github", link: "https://github.com/protechman"}
-    - {name: "twitter", link: "https://twitter.com/protechman"}
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "http://www.aniliyidogan.com"}
+    - {name: "twitter", link: "https://twitter.com/lifeis00FF00"}
+    - {name: "github", link: "https://github.com/aniliyidogan"}
