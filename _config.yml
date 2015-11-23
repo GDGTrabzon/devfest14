@@ -160,7 +160,7 @@ directionDetailsImage: "backgroundtrbzn.jpg"
 directionDetailsTitle: "Get around Trabzon"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is easily reachable by public transport.'}
- #- {title: "Public Transit", information: 'You can either take subway train or look for busses called "HAVATAŞ". More information will be provided here to directly go to the venue.'}
+ - {title: "Public Transit", information: 'More information will be provided here to directly go to the venue.'}
  - {title: "Hotels", information: 'Trabzon has lots of great hotels and hostels. More information will be available later.'}
 
 # Hackathon
