@@ -1,43 +1,43 @@
 - 
   group: "Main organizer"
   elements: 
-    - {width: "500px", name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
--
-  group: "Co-organizers"
-  elements:
-    - {width: "200px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
-    - {width: "200px", name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
-    - {width: "200px", name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
-    - {width: "200px", name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.org/", imageUrl: "gdgkonya.png"}
-    - {width: "200px", name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr/", imageUrl: "gdgkutahya.jpg"}
-    - {width: "100px", name: "Ankara JUG", description: "Ankara JUG", link: "http://www.ankarajug.org", imageUrl: "ankarajug.png"}
-    - {width: "150px", name: "Mobil Istanbul", description: "Mobil Istanbul", link: "http://mobilistanbul.com/", imageUrl: "mobilistanbul.jpg"}
--
-  group: "Universities"
-  elements:
-    - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
-    - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://tubit.trakya.edu.tr", imageUrl: "tubit.png"}
-    - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
-    - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
-    - {name: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", description: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", link: "http://compec.boun.edu.tr/site", imageUrl: "compec.png"}
-    - {name: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", description: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", link: "http://www.robogyte.com/", imageUrl: "robotik.png"}
--
-  group: "Bloggers"
-  elements:
-    - {name: "Ottodroid", description: "Ottodroid", link: "http://www.ottodroid.net/?p=348", imageUrl: "ottodroid.png", width: "80px" }
-    - {name: "Yusuf Çakmak", description: "Yusuf Çakmak", link: "http://blog.yusufcakmak.com/etkinlikler/devfest-istanbul-2014.html", imageUrl: "yusuf.png"}
-    - {name: "Teakolik", description: "Teakolik", link: "http://www.teakolik.com", imageUrl: "teakolik.png"}
-    - {name: "Sozyal.co", description: "Sozyal.co", link: "http://www.sozyal.co", imageUrl: "sozyal.png"}
-    - {name: "Sosyal Medya Haber", description: "Sosyal Medya Haber", link: "http://www.sosyalmedyahaber.com", imageUrl: "sosyalmedyahaber.png"}
-    - {name: "Sibel Hoş", description: "Sibel Hoş", link: "http://sibelhos.com", imageUrl: "sibelhos.png"}
-    - {name: "Sezai Yldırım", description: "Sezai Yldırım", link: "http://sezaiyildirim.com", imageUrl: "sezaiyildirim.png"}
-    - {name: "WeBeyn", description: "WeBeyn", link: "http://www.webeyn.com", imageUrl: "webeyn.png"}
-    - {name: "Protechman", description: "Protechman", link: "http://www.protechman.net", imageUrl: "protechman.png"}
-    - {name: "İsmail Emrah DemirAyak", description: "İsmail Emrah DemirAyak", link: "http://demirayak.org", imageUrl: "demirayak.png"}
-    - {name: "Tekno Safari", description: "Tekno Safari", link: "http://teknosafari.com", imageUrl: "teknosafari.png"}
-    - {name: "Evren'den al haberi", description: "Evren'den al haberi", link: "http://www.evrendenalhaberi.com", imageUrl: "evrendenalhaberi.png"}
-    - {name: "Fundalina", description: "Fundalina", link: "http://www.fundalina.com", imageUrl: "fundalina.png"}
-    - {name: "Haydar Özkömürcü", description: "Haydar Özkömürcü", link: "http://hozkomurcu.com", imageUrl: "hozkomurcu.png", width: "90px"}
-    - {name: "inceleme.co", description: "inceleme.co", link: "http://inceleme.co", imageUrl: "inceleme.png"}
-    - {name: "Serkan Cura", description: "Serkan Cura", link: "http://www.serkancura.com", imageUrl: "serkancura.png"}
-    - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://www.kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
+    - {width: "500px", name: "GDG Trabzon", description: "GDG Trabzon - Open and volunteer geek community", link: "http://www.gdgtrabzon.com", imageUrl: "GDG_Trabzon.svg"}
+#-
+#  group: "Co-organizers"
+#  elements:
+#    - {width: "200px", name: "GDG Eskisehir", description: "GDG Eskisehir", link: "http://2014.devfestudent.com", imageUrl: "gdgeskisehir.png"}
+#    - {width: "200px", name: "GDG Ankara", description: "GDG Ankara", link: "http://www.gdgankara.org", imageUrl: "gdgankara.png"}
+#    - {width: "200px", name: "GDG Duzce", description: "GDG Duzce", link: "http://gdgduzce.duzce.edu.tr", imageUrl: "gdgduzce.png"}
+#    - {width: "200px", name: "GDG Konya", description: "GDG Konya", link: "http://www.gdgkonya.org/", imageUrl: "gdgkonya.png"}
+#    - {width: "200px", name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr/", imageUrl: "gdgkutahya.jpg"}
+#    - {width: "100px", name: "Ankara JUG", description: "Ankara JUG", link: "http://www.ankarajug.org", imageUrl: "ankarajug.png"}
+#    - {width: "150px", name: "Mobil Istanbul", description: "Mobil Istanbul", link: "http://mobilistanbul.com/", imageUrl: "mobilistanbul.jpg"}
+#-
+#  group: "Universities"
+#  elements:
+#    - {name: "Anadolu BK", description: "Anadolu Üniversitesi Bilgisayar Kulübü", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolubk.png"}
+#    - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://tubit.trakya.edu.tr", imageUrl: "tubit.png"}
+#    - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
+#    - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
+#    - {name: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", description: "Compec | Boğaziçi Üniversitesi Bilişim Kulübü", link: "http://compec.boun.edu.tr/site", imageUrl: "compec.png"}
+#    - {name: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", description: "RoboGYTE | Gebze Teknik Üniversitesi Robotik Kulübü", link: "http://www.robogyte.com/", imageUrl: "robotik.png"}
+#-
+#  group: "Bloggers"
+#  elements:
+#    - {name: "Ottodroid", description: "Ottodroid", link: "http://www.ottodroid.net/?p=348", imageUrl: "ottodroid.png", width: "80px" }
+#    - {name: "Yusuf Çakmak", description: "Yusuf Çakmak", link: "http://blog.yusufcakmak.com/etkinlikler/devfest-istanbul-2014.html", imageUrl: "yusuf.png"}
+#    - {name: "Teakolik", description: "Teakolik", link: "http://www.teakolik.com", imageUrl: "teakolik.png"}
+#    - {name: "Sozyal.co", description: "Sozyal.co", link: "http://www.sozyal.co", imageUrl: "sozyal.png"}
+#    - {name: "Sosyal Medya Haber", description: "Sosyal Medya Haber", link: "http://www.sosyalmedyahaber.com", imageUrl: "sosyalmedyahaber.png"}
+#    - {name: "Sibel Hoş", description: "Sibel Hoş", link: "http://sibelhos.com", imageUrl: "sibelhos.png"}
+#    - {name: "Sezai Yldırım", description: "Sezai Yldırım", link: "http://sezaiyildirim.com", imageUrl: "sezaiyildirim.png"}
+#    - {name: "WeBeyn", description: "WeBeyn", link: "http://www.webeyn.com", imageUrl: "webeyn.png"}
+#    - {name: "Protechman", description: "Protechman", link: "http://www.protechman.net", imageUrl: "protechman.png"}
+#    - {name: "İsmail Emrah DemirAyak", description: "İsmail Emrah DemirAyak", link: "http://demirayak.org", imageUrl: "demirayak.png"}
+#    - {name: "Tekno Safari", description: "Tekno Safari", link: "http://teknosafari.com", imageUrl: "teknosafari.png"}
+#    - {name: "Evren'den al haberi", description: "Evren'den al haberi", link: "http://www.evrendenalhaberi.com", imageUrl: "evrendenalhaberi.png"}
+#    - {name: "Fundalina", description: "Fundalina", link: "http://www.fundalina.com", imageUrl: "fundalina.png"}
+#    - {name: "Haydar Özkömürcü", description: "Haydar Özkömürcü", link: "http://hozkomurcu.com", imageUrl: "hozkomurcu.png", width: "90px"}
+#    - {name: "inceleme.co", description: "inceleme.co", link: "http://inceleme.co", imageUrl: "inceleme.png"}
+#    - {name: "Serkan Cura", description: "Serkan Cura", link: "http://www.serkancura.com", imageUrl: "serkancura.png"}
+#    - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://www.kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
