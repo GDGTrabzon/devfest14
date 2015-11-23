@@ -52,7 +52,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2015"
 eventDate: "13 December, 2015"
-typeoutTextValues: '"", "Conference", "Workshops", "Conference", "Trabzon"'
+typeoutTextValues: '"", "Trabzon", "Workshops", "Conference", "Trabzon"'
 typeoutFallback: "Season"
 heroButtons:
 # - {link: "http://devfesttrbzn15.eventbrite.com/", text: "Eventbrite"}

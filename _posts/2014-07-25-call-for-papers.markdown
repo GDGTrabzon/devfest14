@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-25 12:00:00
+date:   2015-11-23 12:00:00
 isStaticPost: false
 ---
-DevFest Trabzon 2015 will be held 6th of December in one of the most beautiful cities in the world: Trabzon. If you want to be part of this great event and community go ahead and fill the form. 
+DevFest Trabzon 2015 will be held 13th of December in one of the most beautiful cities in the world: Trabzon. If you want to be part of this great event and community go ahead and fill the form. 
 
 #### Presenters – who should speak at the DevFest Conference?
 
