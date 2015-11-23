@@ -19,15 +19,15 @@ organizerName: "GDG Trabzon"
 organizerAlternateName: "Google Developer Group Trabzon"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "info@gdgtrazon.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/organizers/GDG_Trabzon.svg"
 organizerLink: "http://gdgtrabzon.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, trabzon, devfesttrabzon"
 twitterAccount: "@GDGTrabzon"
-socialImageSrcGooglePlus: "/img/seo/social_logo.png"
-socialImageSrcTwitter: "/img/seo/social_logo.png"
-socialImageSrcFacebook: "/img/seo/social_logo.png"
+socialImageSrcGooglePlus: "/img/organizers/GDG_Trabzon.svg"
+socialImageSrcTwitter: "/img/organizers/GDG_Trabzon.svg"
+socialImageSrcFacebook: "/img/organizers/GDG_Trabzon.svg"
 
 
 # Documents
