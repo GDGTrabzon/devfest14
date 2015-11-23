@@ -81,8 +81,9 @@
   <path fill="url(#l)" d="m9.072,127l22.903001,38.044998l3.321001,-5.529999c0.829998,-1.384995 0.829998,-3.645004 0,-5.022995l-15.004002,-24.981003c-0.829,-1.378006 -2.825001,-2.511002 -4.432,-2.511002l-6.788,0l0,0z" id="path3401"/>
   <text xml:space="preserve" x="48.66806" y="46.705635" id="text3409" font-family="Open Sans" fill="#000000" font-weight="bold" font-style="normal" font-size="18px">2014 Trabzon</text>
   <text xml:space="preserve" x="50.237995" y="107.9332" id="text4204" font-family="Open Sans" fill="#4e4e4e" font-weight="bold" font-style="normal" font-size="18px">2014 Trabzon</text>
-  <text xml:space="preserve" x="49.453026" y="173.0856" id="text4208" font-family="Open Sans" fill="#e7e8e8" font-weight="bold" font-style="normal" font-size="18px">2014 Trabzon</text>
+  <text stroke-width="null" stroke="null" xml:space="preserve" x="49.453026" y="173.0856" id="text4208" font-family="Open Sans" fill="#DDDDDD" font-weight="bold" font-style="normal" font-size="18px">2014 Trabzon</text>
   <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="left" font-family="'Times New Roman', Times, serif" font-size="21" id="svg_4" y="25" x="98" stroke-opacity="null" stroke-width="null" stroke="null" fill="#444444">Devfest</text>
   <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="left" font-family="'Times New Roman', Times, serif" font-size="21" id="svg_5" y="88" x="98" stroke-opacity="null" stroke-width="null" stroke="null" fill="#444444">Devfest</text>
+  <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="left" font-family="'Times New Roman', Times, serif" font-size="21" id="svg_6" y="152" x="97" stroke-opacity="null" stroke-width="null" stroke="null" fill="#DDDDDD">Devfest</text>
  </g>
 </svg>
