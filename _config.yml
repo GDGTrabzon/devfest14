@@ -52,10 +52,9 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2015"
 eventDate: "13 December, 2015"
-typeoutTextValues: '"", "Conference", "Workshops", "", "Trabzon"'
+typeoutTextValues: '"", "Conference", "Workshops", "Trabzon"'
 typeoutFallback: "Season"
 heroButtons:
-# - {link: "http://www.meetup.com/MineCraft-Istanbul/events/213563482/", text: "Minecraft Workshop"}
  - {permalink: "/#tickets", text: "Register to event"}
 
 # About Block
@@ -63,18 +62,16 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Trabzon!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-# - {title: "Minecraft Workshop", image: "minecraft.png", text: "Are you or your kids into Minecraft? Did you know you can learn to mod it with Java and NetBeans IDE?" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- #- {count: "24", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: "The answer to life, the universe and everything"}
- #- {count: "5", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
 
 # Latest News Block
-#latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -112,8 +109,8 @@ ticketsTitle: "Please Register"
 ticketsOffers:
  -
   name: "Free Ticket"
-#  buyButtonLink: "http://devfesttr14.eventbrite.com"
-#  buyButtonText: "Register"
+  buyButtonLink: "http://devfesttrbzn15.eventbrite.com"
+  buyButtonText: "Register"
 #  validFrom: "2014-12-06T10:00"
 #  validThrough: "2014-12-06T23:59"
 
@@ -135,9 +132,9 @@ footerBlocks:
    - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
 # Blog
-#blogTitle: "Latest news"
-#blogCommentsEnabled: false
-#discusShortName: "devfestist"
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: "devfestist"
 
 # Speakers List Block
 #showSessions: false
