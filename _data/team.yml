@@ -1,65 +1,65 @@
--
-  id: 0
-  name: "Bilal"
-  surname: "Çorbacıoğlu"
-  title: "Software Developer"
-  thumbnailUrl: bilalc.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+Bilalcorbaciogluu"}
-    - {name: "github", link: "http://github.com/bilalcorbacioglu"}
-    - {name: "linkedin", link: "https://tr.linkedin.com/in/bilalcorbacioglu"}
+#-
+#  id: 0
+#  name: "Bilal"
+#  surname: "Çorbacıoğlu"
+#  title: "Software Developer"
+#  thumbnailUrl: bilalc.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+Bilalcorbaciogluu"}
+#    - {name: "github", link: "http://github.com/bilalcorbacioglu"}
+#    - {name: "linkedin", link: "https://tr.linkedin.com/in/bilalcorbacioglu"}
 
--
-  id: 1
-  name: "Furkan"
-  surname: "İnciroğlu"
-  title: "System Administrator"
-  thumbnailUrl: furkani.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/100965528595097792482"}
-    - {name: "github", link: "http://github.com/FurkanInciroglu"}
+#-
+#  id: 1
+#  name: "Furkan"
+#  surname: "İnciroğlu"
+#  title: "System Administrator"
+#  thumbnailUrl: furkani.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/100965528595097792482"}
+#    - {name: "github", link: "http://github.com/FurkanInciroglu"}
 
--
-  id: 2
-  name: "Dilşat Kübra"
-  surname: "Can"
-  title: "Analyst, Product Owner"
-  thumbnailUrl: dilsatc.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/dlsstcann"}
+#-
+#  id: 2
+#  name: "Dilşat Kübra"
+#  surname: "Can"
+#  title: "Analyst, Product Owner"
+#  thumbnailUrl: dilsatc.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/dlsstcann"}
 
--
-  id: 3
-  name: "Anıl"
-  surname: "İyidoğan"
-  title: "Software Developer"
-  thumbnailUrl: anili.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "site", link: "http://www.aniliyidogan.com"}
-    - {name: "twitter", link: "https://twitter.com/lifeis00FF00"}
-    - {name: "github", link: "https://github.com/aniliyidogan"}
-    - {name: "linkedin", link: "https://tr.linkedin.com/in/aniliyidogan"}
+#-
+#  id: 3
+#  name: "Anıl"
+#  surname: "İyidoğan"
+#  title: "Software Developer"
+#  thumbnailUrl: anili.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social: 
+#    - {name: "site", link: "http://www.aniliyidogan.com"}
+#    - {name: "twitter", link: "https://twitter.com/lifeis00FF00"}
+#    - {name: "github", link: "https://github.com/aniliyidogan"}
+#    - {name: "linkedin", link: "https://tr.linkedin.com/in/aniliyidogan"}
 
--
-  id: 4
-  name: "Furkan"
-  surname: "Mut"
-  title: "Software Developer"
-  thumbnailUrl: furkanm.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "linkedin", link: "https://tr.linkedin.com/in/furkan-mut-758558aa"}
+#-
+#  id: 4
+#  name: "Furkan"
+#  surname: "Mut"
+#  title: "Software Developer"
+#  thumbnailUrl: furkanm.jpg
+#  team: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
+#  social:
+#    - {name: "linkedin", link: "https://tr.linkedin.com/in/furkan-mut-758558aa"}
