@@ -1,8 +1,8 @@
 - 
   group: "Main organizer"
   elements: 
-    - {width: "500px", name: "GDG Trabzon", description: "GDG Trabzon - Open and volunteer geek community", link: "http://www.gdgtrabzon.com", imageUrl: "GDG_Trabzon.svg"}
-#-
+    - {width: "400px", name: "GDG Trabzon", description: "GDG Trabzon - Open and volunteer geek community", link: "http://www.gdgtrabzon.com", imageUrl: "GDG_Trabzon.svg"}
+-
   group: "Co-organizers"
   elements:
     - {width: "200px", name: "Trabzon Hackerspace", description: "Trabzon Hackerspace", imageUrl: "trabzonhs.png"}
