@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/organizers/GDG_Trabzon.svg"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/organizers", text: "Organizers"}
  - {permalink: "/logistics/", text: "Logistics"}

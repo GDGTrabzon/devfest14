@@ -1,18 +1,46 @@
-#-
-#  id: 54
-#  name: "Said Tahsin"
-#  surname: "Dane"
-#  title: "Android Developer"
-#  company: "VNGRS"
-#  bio: "Android Developer who also cares about UX a lot. Trying to improve himself in terms of mobile UX as an engineer. Currently working on Leaf Business POS platform, a Boston based startup. Co-organizer at GDG Istanbul. Google Glass Explorer. Hackathon Lover."
-#  thumbnailUrl: SaidTahsinDane.jpg
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
-#    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
-#    - {name: "github", link: "https://github.com/tasomaniac"}
-#    - {name: "site", link: "http://www.tasomaniac.com"}
+-
+  id: 0
+  name: "Said Tahsin"
+  surname: "Dane"
+  title: "Android Developer"
+  company: "VNGRS"
+  bio: "Android Developer who also cares about UX a lot. Trying to improve himself in terms of mobile UX as an engineer. Currently working on Leaf Business POS platform, a Boston based startup. Co-organizer at GDG Istanbul. Google Glass Explorer. Hackathon Lover."
+  thumbnailUrl: SaidTahsinDane.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
+    - {name: "twitter", link: "https://twitter.com/tasomaniac"}
+    - {name: "github", link: "https://github.com/tasomaniac"}
+    - {name: "site", link: "http://www.tasomaniac.com"}
+
+-
+  id: 1
+  name: "Salim"
+  surname: "Kayabaşı"
+  title: "Web Developer"
+  company: "KapGel"
+  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
+  thumbnailUrl: SalimKayabasi.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
+    - {name: "github", link: "https://github.com/salimkayabasi"}
+    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
+    - {name: "site", link: "http://blog.salimkayabasi.com"}
+
+-
+  id: 2
+  name: "Busra"
+  surname: "Deniz"
+  title: "Mobile Software Developer"
+  thumbnailUrl: BusraDeniz.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
+    - {name: "twitter", link: "https://twitter.com/busradeniz"}
+    - {name: "site", link: "http://www.busradeniz.com"}
 
 #-
 #  id: 55
