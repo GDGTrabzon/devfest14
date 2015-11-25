@@ -61,7 +61,7 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Istanbul carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Trabzon!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Trabzon carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Trabzon!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
