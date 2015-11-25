@@ -35,7 +35,6 @@
   name: "Busra"
   surname: "Deniz"
   title: "Mobile Software Developer"
-  company:
   bio:"Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies especially Scrum. She is a Certificated Scrum Master and mobile engineer in Netas. Currently, working on an international project that provides iOS and Android SDKs those allow other programmers to develop their applications, which are capable of voice call, video call and IM using WebRTC."
   thumbnailUrl: BusraDeniz.jpg
   ribbon:
