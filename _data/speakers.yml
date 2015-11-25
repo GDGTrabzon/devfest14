@@ -39,7 +39,6 @@
   thumbnailUrl: BusraDeniz.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
-  team: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
     - {name: "twitter", link: "https://twitter.com/busradeniz"}
