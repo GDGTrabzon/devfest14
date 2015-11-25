@@ -12,10 +12,10 @@
 #    - {width: "200px", name: "GDG Kütahya", description: "GDG Kütahya", link: "http://googledevelopergroupkutahya.blogspot.com.tr/", imageUrl: "gdgkutahya.jpg"}
 #    - {width: "100px", name: "Ankara JUG", description: "Ankara JUG", link: "http://www.ankarajug.org", imageUrl: "ankarajug.png"}
 #    - {width: "150px", name: "Mobil Istanbul", description: "Mobil Istanbul", link: "http://mobilistanbul.com/", imageUrl: "mobilistanbul.jpg"}
--
-  group: "Universities"
-  elements:
-    - {width: "200px", name: "Ktucec", description: "Karadeniz Teknik Üniversitesi Bilgisayar Kulübü", imageUrl: "ktucec.jpg"}
+#-
+#  group: "Universities"
+#  elements:
+#    - {width: "200px", name: "Ktucec", description: "Karadeniz Teknik Üniversitesi Bilgisayar Kulübü", imageUrl: "ktucec.jpg"}
 #    - {name: "TUBIT", description: "Trakya Üniversitesi - Bilgisayar ve İnovasyon Topluluğu", link: "http://tubit.trakya.edu.tr", imageUrl: "tubit.png"}
 #    - {name: "Anadolu IEEE", description: "Anadolu Üniversitesi - IEEE", link: "https://twitter.com/IEEEANADOLU", imageUrl: "anadoluieee.png"}
 #    - {name: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", description: "KOUBK | Bilgisayar Kulübü - Kocaeli Üniversitesi", link: "http://www.koubk.com/", imageUrl: "koubk.png"}
