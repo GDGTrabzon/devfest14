@@ -26,9 +26,24 @@
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
-    - {name: "github", link: "https://github.com/salimkayabasi"}
     - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
+    - {name: "github", link: "https://github.com/salimkayabasi"}
     - {name: "site", link: "http://blog.salimkayabasi.com"}
+
+-
+  id: 2
+  name: "Busra"
+  surname: "Deniz"
+  title: "Mobile Software Developer"
+  company: "Netas"
+  bio: "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies especially Scrum. She is a Certificated Scrum Master and mobile engineer in Netas "
+  thumbnailUrl: BusraDeniz.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
+    - {name: "twitter", link: "https://twitter.com/busradeniz"}
+    - {name: "site", link: "http://www.busradeniz.com"}
 
 #-
 #  id: 55
