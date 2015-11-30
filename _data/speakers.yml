@@ -1,5 +1,714 @@
 -
-  id: 0
+  id: 49
+  name: "Daniel"
+  surname: "Kurka"
+  company: "Google"
+  title: "Engineer"
+  rockstar: true
+  thumbnailUrl: DanielKurka.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+  social:
+      - {name: "google-plus", link: "https://plus.google.com/+DanielKurka/posts"}
+      - {name: "linkedin", link: "https://linkedin.com/pub/daniel-kurka/54/794/579"}
+      - {name: "twitter", link: "https://twitter.com/dankurka"}
+      - {name: "site", link: "http://www.daniel-kurka.de"}
+-
+  id: 13
+  name: "Geertjan"
+  surname: "Wielenga"
+  company: "Oracle"
+  title: "Principal Product Manager"
+  bio: "Geertjan Wielenga is a Principal Product Manager in the Oracle Developer Tools group living & working in Amsterdam. He is a Java technology enthusiast, evangelist, trainer, speaker, and writer. He blogs here daily. The focus of this blog is mostly on NetBeans (a development tool primarily for Java programmers), with an occasional reference to NetBeans, and sometimes diverging to topics relating to NetBeans. And then there are days when NetBeans is mentioned, just for a change."
+  thumbnailUrl: GeertjanWielenga.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/geertjanw"}
+    - {name: "site", link: "http://blogs.oracle.com/geertjan"}
+
+-
+ id: 22
+ name: "Andy"
+ surname: "Volk"
+ company: "Google"
+ title: "Regional Manager, Developer Relations: Africa & Middle East"
+ thumbnailUrl: AndyVolk.jpg
+ ribbon:
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+AndyVolk"}
+   - {name: "linkedin", link: "https://linkedin.com/in/andyvolk"}
+   - {name: "site", link: "http://andyvolk.com"}
+   - {name: "twitter", link: "https://twitter.com/downtempo"}
+
+-
+ id: 36
+ name: "Önder"
+ surname: "Filiz"
+ company: "Turkcell"
+ title: "Mobile Applications & App Store Manager at Turkcell"
+ thumbnailUrl: OnderFiliz.jpg
+ social:
+   - {name: "linkedin", link: "https://linkedin.com/pub/onder-filiz/3/a86/19b"}
+   - {name: "twitter", link: "https://twitter.com/onderfiliz"}
+
+-
+ id: 23
+ name: "Mert"
+ surname: "Çalışkan"
+ company: "T2 Yazılım"
+ title: "Principal Architect"
+ bio: "Mert Caliskan is a Principle Software Architect living in Ankara, Turkey. He has over 10+ years of expertise in software development with the architectural design of Enterprise Java web applications. He is an open source advocate for software projects such as PrimeFaces, and has also been committer and founder to various others. He is the co-author of PrimeFaces Cookbook by Packt Publishing. He is the co-author of Beginning Spring by Wiley Publications. He is also working as an author for RebelLabs. He is the founder of AnkaraJUG, which is the most active JUG in Turkey. In 2014, he is entitled as a Java Champion for his achievements. He is part-time lecturing at Hacettepe University about Enterprise Web Applications' Architecture and Web Services. He shares his knowledge at national and international conferences like JDays 2015, JavaOne 2013, JDC2010 and JSFDays'08."
+ thumbnailUrl: MertCaliskan.png
+ rockstar: true
+ ribbon:
+      - {abbr: "Champion", title: "Java Champions", url: "https://blogs.oracle.com/java/entry/new_java_champions_mert_caliskan"}
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/115857670924602665714"}
+   - {name: "linkedin", link: "https://linkedin.com/in/mertcaliskan"}
+   - {name: "facebook", link: "https://www.facebook.com/mertcaliskan"}
+   - {name: "twitter", link: "https://twitter.com/mertcal"}
+
+-
+  id: 32
+  name: "Martijn"
+  surname: "Verburg"
+  company: "jClarity"
+  title: "Co-founder & CEO of jClarity"
+  bio: "Martijn Verburg is the co-founder & CEO of jClarity - a Java/JVM performance analysis start-up. He is the co-leader for the LJC (aka London JUG), from which he runs the global Adopt OpenJDK and Adopt a JSR programmes, two open source projects (PCGen and Ikasan EIP), and is a bartender at the Javaranch. You can also find him answering thorny questions at the Programmers StackExchange. He's a regular speaker at conferences (FOSDEM, JavaOne, OSCON, Devoxx etc) and is the co-author of 'The Well-Grounded Java Developer' (Manning publications). Martijn was recently selected as a Java Champion in recognition for his contribution to the Java ecosystem There are rumors that he might be the infamous Diabolical Developer, but that's clearly just a lie...."
+  thumbnailUrl: MartijnVerburg.png
+  rockstar: true
+  ribbon:
+      - {abbr: "Champion", title: "Java Champions", url: "http://www.oracle.com/technetwork/articles/java/martijn-1865077.html"}
+  social:
+     - {name: "google-plus", link: "https://plus.google.com/+MartijnVerburg"}
+     - {name: "twitter", link: "https://twitter.com/karianna "}
+
+-
+  id: 2
+  name: "Mark"
+  surname: "Stephens"
+  company: "IDRsolutions"
+  title: "Entrepreneur"
+  bio: "Mark Stephens has been working with Java since 1997. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions have a Java PDF library and a PDF to HTML5/SVG converter which are used by clients worldwide. He has an MSC degree in Computer Science and an MA in Mediaeval History and has a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as he gets to combine both coding and mediaeval castles/cathedral and cisterns."
+  thumbnailUrl: MarkStephens.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarkStephens"}
+    - {name: "twitter", link: "https://twitter.com/javaPDF"}
+    - {name: "facebook", link: "https://www.facebook.com/idrsolutions"}
+
+-
+  id: 16
+  name: "Thomas"
+  surname: "Mattsson"
+  company: "Vaadin"
+  title: "Project Manager"
+  bio: "Thomas Mattsson works at Vaadin as a Vaadin Expert and Project Manager. He has been designing and implementing Vaadin application architectures for over 6 years. When he isn’t designing, he runs around Europe doing Vaadin trainings and consulting gigs. You might also catch him on the Vaadin Forum."
+  thumbnailUrl: ThomasMattsson.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/113090026404571157484"}
+    - {name: "linkedin", link: "https://linkedin.com/pub/thomas-mattsson/38/80/225"}
+-
+ id: 3
+ name: "Wiebe"
+ surname: "Elsinga"
+ company: "ItudeMobile / GDG Dutch Android User Group"
+ title: "Mobile Technical Lead"
+ rockstar: true
+ bio: "Co-Founder/Organizer Google Developer Group Dutch Android User Group and Mobile Technical Lead at ItudeMobile. Basically a EntrepreNerd. Mainly focused on the design and development of mobile applications. Passionate about Android, UX and innovation. Also a public speaker at technical conferences worldwide and has been nominated to apply for the Google Developer Expert Program."
+ thumbnailUrl: WiebeElsinga.png
+ ribbon:
+     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "https://developers.google.com/groups/chapter/113182948271879290904/"}
+ social:
+   - {name: "google-plus", link: "http://google.com/+WiebeElsinga"}
+   - {name: "twitter", link: "http://twitter.com/welsinga"}
+   - {name: "github", link: "http://github.com/welsinga"}
+   - {name: "site", link: "http://wiebe-elsinga.com/blog"}
+
+-
+  id: 4
+  name: "Ali"
+  surname: "Derbane"
+  company: "Itude Mobile"
+  title: "Android Developer"
+  rockstar: true
+  bio: "In 2009 Ali Derbane started developing Android software at a company called Itude Mobile. With a vibrant team of cool developers he has developed various applications for different industries like banking and pharmaceutical. While developing these apps lots of challenges arose. These challenges drive him to keep learning about the exciting world of Android. Blogging, hosting workshops and talking about the challenges and the solutions to these challenges gives him the opportunity to share his knowledge with the rest of the world."
+  thumbnailUrl: AliDerbane.png
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AliDerbane"}
+    - {name: "github", link: "https://github.com/aderbane"}
+    - {name: "linkedin", link: "https://linkedin.com/in/derbane"}
+
+-
+  id: 18
+  name: "Marie"
+  surname: "Schweiz"
+  company: "Freelancer"
+  title: "UX Designer"
+  rockstar: true
+  bio: "Marie Schweiz is a designer and she is passionate about user experience and development. She lives and works in Berlin and Munich, Germany. Before becoming a Freelancer, she was already specialized in user experience, visual design for mobile and worked for Sixt rent-a Car. As a founder of #drawtogether and Adobe community professional her passion is to develop the local art and design community in Berlin."
+  thumbnailUrl: MarieSchweiz.png
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarieSchweiz"}
+    - {name: "site", link: "http://marie-schweiz.de"}
+    - {name: "twitter", link: "https://twitter.com/ma_rylou"}
+
+-
+  id: 30
+  name: "Müge"
+  surname: "Yılmaz"
+  company: "Google"
+  title: "Strategic Partner Manager-Mobile Apps"
+  bio: "As a Strategic Partner Manager at Google, Müge works with app developers who use In App Advertising as a channel for monetizing their audience; either exclusively or complementary to in app purchase (IAP). She focuses on mApp ad monetization, App UX, Play Store optimization & customer retention and App Analytics. Prior her role in Google, she spent 4 years in IBM Turkey Software Group both in Sales and Sales Advisory positions. Müge holds master’s degree in Business Information Systems from Bogazici University. She currently lives in Dublin but travels her hometown, Istanbul frequently."
+  thumbnailUrl: MugeYilmaz.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+  social:
+      - {name: "linkedin", link: "https://linkedin.com/pub/muge-yilmaz/16/794/553"}
+      - {name: "twitter", link: "https://twitter.com/mugeylmz_"}
+
+-
+  id: 31
+  name: "Chris"
+  surname: "Jones"
+  company: "Google"
+  title: "Audience Development Specialist"
+  bio: "Meet Chris, the Global Audience Development Specialist for Traffic & Discovery. He help publishers capture more, engaged & loyal users by delivering Google products/services in a simple and scalable way. He's passionate about simplifying Google for content creators and expanding Online Publishing Group's value proposition beyond monetization. With over 5 years experience growing online audiences, prior to Google he worked in Public Relations, Digital Marketing and was winner of the 2013 Digital Future Star award at Ireland’s premier Eircom Spider Awards. A self-confessed geek at heart, he has a love for all things digital and technology."
+  thumbnailUrl: ChrisJones.jpg
+  ribbon:
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
+  social:
+      - {name: "google-plus", link: "https://plus.google.com/+ChrisJonesGoogle"}
+
+-
+  id: 33
+  name: "Murat"
+  surname: "Yener"
+  company: "Intel"
+  title: "Android Developer"
+  bio: "Murat Yener is a code geek, open source committer and working in Intel as an Android Developer working on wearable projects. He has extensive experience on developing Java, Web, JavaEE and OSGi applications besides teaching courses and mentoring. Murat is an Eclipse committer and one of the initial committers of Eclipse Libra project. He is the author of upcoming Professional Java EE Design Patterns book from Wiley. He has been a user group leader at GDG Istanbul since 2009. Murat is a regular speaker at conferences like JavaOne, Devoxx, EclipseCon and user group meetings."
+  thumbnailUrl: MuratYener.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social:
+      - {name: "google-plus", link: "https://google.com/+MuratYener"}
+      - {name: "twitter", link: "https://twitter.com/yenerm"}
+      - {name: "github", link: "https://github.com/yenerm"}
+      - {name: "site", link: "http://www.devchronicles.com/"}
+
+-
+ id: 15
+ name: "Nick"
+ surname: "Lindridge"
+ company: "ionCube Ltd."
+ title: "Founder"
+ bio: "Founder of the ionCube brand with the mission to empower PHP developers and website owners with tools for software security, with awesome customer service."
+ thumbnailUrl: NickLindridge.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/ioncube"}
+   - {name: "site", link: "http://ioncube.com"}
+   - {name: "linkedin", link: "https://linkedin.com/in/nicklindridge"}
+
+-
+  id: 26
+  name: "Cüneyt"
+  surname: "Unar"
+  company: "Google"
+  title: "Strategic New Business Manager at Google AdMob"
+  ribbon:
+      - {abbr: "Google", title: "Googler", url: "https://google.com"}
+  bio: "Cuneyt Unar has been working nearly for 4 years at Google now, currently looking after the Google AdMob Partnership programme in European markets. He is a scholar of mobile app ecosystem while constantly speaking at industry events to share his know-how with the developer communities, providing the latest updates from Google and generously offer marketing consultancy to the Start-ups. His area of expertise is monetization with IAP, advertising and alternative channels."
+  thumbnailUrl: CuneytUnar.png
+  
+-
+  id: 5
+  name: "Cagatay"
+  surname: "Civici"
+  company: "PrimeTek"
+  title: "Founder"
+  bio: "Cagatay Civici is a member of JavaServer Faces Expert Group within JCP, the founder and project lead of popular PrimeFaces Component Suite and PMC member of open source JSF implementation Apache MyFaces. He’s a recognized speaker in international conferences such as JavaOne, SpringOne, JAX, Jazoon, Confess, JSFSummit and many local events such as JUGs. Cagatay is also an author and technical reviewer of couple of books regarding web application development with Java EE."
+  thumbnailUrl: CagatayCivici.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/cagataycivici"}
+
+-
+  id: 7
+  name: "Hasan"
+  surname: "Hosgel"
+  company: "ImmobilienScout24"
+  title: "Senior Android Developer"
+  bio: "Hasan Hoşgel is a dedicated Android developer about ten years of professional programming of which more than three years have been in apps development.Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Since 2006 Hasan working for ImmobilienScout24 as a Senior Developer."
+  thumbnailUrl: HasanHosgel.jpg
+  ribbon:
+     - {abbr: "GDG", title: "GDG Berlin Android", url: "https://developers.google.com/groups/chapter/102464661817600154044/"}
+  social:
+   - {name: "google-plus", link: "https://www.google.com/+HasanHosgel"}
+   - {name: "twitter", link: "https://twitter.com/alosdev"}
+   - {name: "github", link: "https://github.com/alosdev"}
+
+-
+  id: 35
+  name: "Vitaly"
+  surname: "Zasadnyy"
+  bio: "Mobile developer, Google Developers Group and Gamedev Community Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management. Used to work for enterprise giants like EPAM as well as for product companies such as NRavo. Nowedays leading team focused on Unity 3D game engine. TEDx speaker."
+  thumbnailUrl: VitalyZasadnyy.jpg
+  ribbon:
+     - {abbr: "GDG", title: "GDG Lviv", url: "http://lviv.gdg.org.ua"}
+  social:
+     - {name: "google-plus", link: "https://plus.google.com/+VitalikZasadnyy"}
+     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+     - {name: "site", link: "http://zasadnyy.org.ua/"}
+
+-
+  id: 37
+  name: "Orhan"
+  surname: "Bayram"
+  thumbnailUrl: OrhanBayram.jpg
+  company: "Turkcell"
+  title: "Product Manager"
+  social:
+     - {name: "linkedin", link: "https://linkedin.com/in/orhanbayram"}
+     - {name: "twitter", link: "https://twitter.com/orhanbayram"}
+
+-
+ id: 38
+ name: "Sezer"
+ surname: "Yesiltas"
+ thumbnailUrl: SezerYesiltas.jpg
+ company: "Turkcell"
+ title: "Terminal and Mobility Development Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/pub/sezer-yesiltas/29/829/343"}
+    - {name: "twitter", link: "https://twitter.com/sezerr"}
+
+-
+ id: 39
+ name: "Dr. Görkem"
+ surname: "Çetin"
+ thumbnailUrl: GorkemCetin.png
+ company: "Turkcell"
+ title: "Product Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/gorkemcetin"}
+    - {name: "twitter", link: "https://twitter.com/gorkemcetin"}
+
+-
+ id: 40
+ name: "Esat"
+ surname: "Belhan"
+ thumbnailUrl: EsatBelhan.jpg
+ company: "Turkcell"
+ title: "Product Manager"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/esatbelhan"}
+    - {name: "twitter", link: "https://twitter.com/esatbelhan"}
+
+-
+ id: 41
+ name: "Can"
+ surname: "Çiloğlu"
+ thumbnailUrl: CanCiloglu.jpg
+ company: "Turkcell"
+ bio: "Can Çiloğlu is a software engineer with 9+ years of experience in developing various software systems and he is currently working for Turkcell. He has an extensive experience on developing performance critical systems with Java and Web technologies. He is passionate about developing mobile applications on Android and iOS for the last 5 years. Can also loves to work on image processing, mobile gaming and robotics projects in his spare time."
+ title: "Senior Software Engineer"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/canciloglu"}
+    - {name: "twitter", link: "https://twitter.com/canciloglu"}
+
+-
+ id: 42
+ name: "Yasin"
+ surname: "Kafadar"
+ thumbnailUrl: YasinKafadar.jpg
+ bio: "In the summer of 2010, Yasin was accepted as a intern to Turkcell. Since that time, He is working for Turkcell and developing Mobile Applications. He loves to research new technologies."
+ company: "Turkcell"
+ title: "Developer"
+ social:
+    - {name: "linkedin", link: "https://linkedin.com/in/yasinkafadar"}
+    - {name: "twitter", link: "https://twitter.com/yasinkafadar"}
+    - {name: "github", link: "https://github.com/yasinkafadar"}
+    - {name: "github", link: "https://github.com/yasin-kafadar"}
+
+-
+  id: 44
+  name: "Murat"
+  surname: "Gürel"
+  company: "Peak Games"
+  bio: "Currently works at Peak Games, Board Studio as an iOS Software Engineer. He has been developing mobile apps professionally for 2 years. Previous works include native apps and cross-platform games with Unity. Graduated from University of Surrey, England with a degree in Electronics & Computer Engineering."
+  thumbnailUrl: MuratGurel.jpg
+
+-
+ id: 17
+ name: "Jose L Ugia"
+ surname: "Gonzalez"
+ company: "Momenta"
+ title: "Co-Founder & Head of Technology"
+ bio: "Entrepreneur as a way of life.\nPassionate about the combination of business + product development and software engineering. Mostly interested about new technologies, especially on the areas of mobile, cloud, and e-health. Side-project believer and wanna-be social entrepreneur. Always free for long beer conversations.\n—\nCurrently Co-Founder & Head of Tech @ Momenta. Google Developer Expert."
+ thumbnailUrl: JoseLUgiaGonzalez.jpg
+ ribbon:
+   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+ social:
+   - {name: "twitter", link: "http://twitter.com/Jl_Ugia"}
+   - {name: "github", link: "http://github.com/JlUgia"}
+   - {name: "google-plus", link: "https://plus.google.com/+JoseLuisUgiaGonzalez"}
+
+-
+ id: 19
+ name: "Filip"
+ surname: "Maelbrancke"
+ company: "AppFoundry"
+ title: "Software Consultant"
+ bio: "Filip Maelbrancke is a software consultant at AppFoundry in Belgium, where he mainly works on Android projects in the financial services, telecom and media sectors. "
+ thumbnailUrl: FilipMaelbrancke.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/fmaelbrancke"}
+   - {name: "google-plus", link: "https://plus.google.com/+FilipMaelbrancke"}
+   - {name: "github", link: "https://github.com/filipmaelbrancke"}
+
+-
+ id: 21
+ name: "Massimo"
+ surname: "Brignoli"
+ company: "MongoDB Inc."
+ title: "Senior Solutions Architect"
+ thumbnailUrl: MassimoBrignoli.jpg
+ social:
+   - {name: "linkedin", link: "https://linkedin.com/in/massimobrignoli"}
+   - {name: "twitter", link: "https://twitter.com/massimobrignoli"}
+
+-
+ id: 20
+ name: "Naci"
+ surname: "Dai"
+ company: "Eteration"
+ title: "Founding Partner/Chief Scientist"
+ bio: "Naci is the Chief Scientist and founder of eteration a.s. He is an object mentor and an educator. Naci is the founder of ObjectLearn and in 2000 wrote ObjectWeb Lomboz™, an Open Source Software for JavaEE development. He is an active contributor to open source, the ObjectWeb Consortium and the Eclipse Foundation. Prior to eteration, Naci was with BEA Systems Inc. and The Object People as the Managing Director of Professional Services. With a strong foundation in Applied Engineering and Computational Physics,Naci received his Ph.D. from Carleton University, Ottawa, Canada. He is a member of the faculty at Sabanci University where he teaches object technologies, web development and distributed computing. Eteration is a member of the ObjectWeb Consortium and a member of the Eclispe Web Tools Platform Project (WTP), Project Management Committee. Naci is a member of the WTP PMC, representing ObjectWeb, and leads the Eclipse Java Standard Tools subproject. eteration is also a provider of tools, developer resources and server infrastructures to WTP project and contributes source training tools and courseware to the Eclipse Community Education Project (ECESIS)."
+ thumbnailUrl: NaciDai.jpg
+ social:
+   - {name: "linkedin", link: "https://linkedin.com/pub/naci-dai/1/57a/bb"}
+   - {name: "twitter", link: "https://twitter.com/nacidai"}
+   - {name: "github", link: "https://github.com/nacidai"}
+
+-
+  id: 34
+  name: "Nizameddin"
+  surname: "Ordulu"
+  company: "KapGel"
+  title: "CTO"
+  bio: "CTO at KapGel, a SaaS company for delivery business. Previously employed by Facebook on database engineering team."
+  thumbnailUrl: NizamOrdulu.jpg
+  social:
+    - {name: "facebook", link: "https://facebook.com/no"}
+
+-
+  id: 45
+  name: "Muharrem"
+  surname: "Taç"
+  title: "Java Developer"
+  company: "M2 Bilişim"
+  bio: "Born in 1976 in Bursa. In 1990, met with the Commodore 64 computer. From 2001 until 2007, worked as Istanbul computing expert at Police Istanbul EGM. In 2007, after serving as a police officer, he entered the industry of technology like Martı Yazılım, Bilginç IT Akademi and has held various software tasks on M2 Bilişim. He is still in R&D Informatics and serves as responsible for education at M2."
+  thumbnailUrl: MuharremTac.jpg
+  social:
+    - {name: "github", link: "https://github.com/muharremtac"}
+    - {name: "twitter", link: "https://twitter.com/muharremtac"}
+    - {name: "linkedin", link: "https://linkedin.com/in/muharremtac"}
+    - {name: "facebook", link: "https://www.facebook.com/muharremtac"}
+
+-
+  id: 46
+  name: "Lemi Orhan"
+  surname: "Ergin"
+  title: "Agile Practice Lead and Technical Architect"
+  company: "Sony"
+  bio: " Lemi Orhan Ergin took Bs. and Ms. degrees from Marmara University Computer Engineering Department in 2002 and 2005 respectively. He has been working in teams developing web applications and backend components & services as developer, lead developer, team leader, technical coordinator and principal developer since 2001. In these projects, he has worked in all layers of software development, from technical architecture to development and testing. He is addicted to learn new technologies, develop new ideas, construct well-defined structures and teach them to others. He has already attended tens of seminars and conferences as speaker. He is sharing the slides of his talks via Slideshare. His presentations have been already viewed more than half a million times in several websites. He is a big fan of human-centric development disciplines, like agile development. He has a lot of deep experience in agile methodologies, Scrum, eXtreme Programming, agile transformation, software craftsmanship, building agile ALM processes, agile software engineering practices and building a sustainable agile development culture in organizations. He has CSM and PSM1 Scrum Master certificates. He has been working in Scrum teams as Scrum Master, Scrum Team Member and Agile Coach since 2008 (He ran 56 sprints in 4 years). He loves to share his knowledge with others. He prepares Scrum trainings and knowledge sharing sessions and enjoy coaching teams in both technical and non-technical aspects. Application life-cycle management is also his expertise. From build management to release management, from requirement analysis to monitoring, he has worked in all areas of software development. He gives special importance to test driven development, continuous integration, clean code principles and software craftsmanship. He has been doing code reviews in daily basis and coaching juniors since 2005. He is an member of GDGIstanbul and Agile Turkey communities. He is in the team who organizes the biggest agile conference in Turkey: Agile Turkey Summit. He is also the founder of Software Craftsmanship Turkey community, i.e. the only Turkish community about Software Craftsmanship. He is also the organizer of 6-years-old long-lasting Brown Bag Sessions in Sony Europe Development Team. He is sharing his experience about agile development in Turkish via agilistanbul.com with Turkish audience. He has participated in translating Agile Manifesto and Software Craftsmanship Manifesto into Turkish. He loves to spread continuous learning and drive best practices in development teams. He is eager to have the responsibility for the coding standards of the department and ensuring they are applied, the responsibility for the management of code re-use within the teams and the responsibility for the tools and frameworks used by the department."
+  thumbnailUrl: LemiOrhanErgin.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lemiorhan"}
+    - {name: "site", link: "http://www.lemiorhanergin.com"}
+    - {name: "github", link: "https://linkedin.com/in/lemiorhan"}
+
+-
+  id: 6
+  name: "Altan"
+  surname: "Yılmaz"
+  title: "Frontend Architect"
+  bio: "Building and implementing large scaled web & hybrid mobile JavaScript applications."
+  thumbnailUrl: AltanYilmaz.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/allthein"}
+    - {name: "github", link: "https://github.com/allthein"}
+
+-
+  id: 1
+  name: "Murat"
+  surname: "Çorlu"
+  company: "Sahibinden.com"
+  title: "Principal Frontend Developer"
+  bio: "In the last 5 years of his past 15 years programming experience, He tried to interest more with front-end technologies and JavaScript. He is very pleased with the developing apps by front-end technologies."
+  thumbnailUrl: MuratCorlu.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MuratÇorlu/"}
+    - {name: "twitter", link: "https://twitter.com/muratcorlu"}
+    - {name: "github", link: "https://github.com/muratcorlu"}
+
+-
+ id: 8
+ name: "Florent"
+ surname: "Biville"
+ company: "VIDAL / part-time freelance"
+ title: "Lead developer @ Vidal / independent Neo4j consultant/trainer"
+ bio: "Passionate about well-crafted and simple software, Florent Biville strives for learning and improving his practice everyday. He enjoys learning many ways of doing one thing, creating/contributing to FOSS, computing science history and telling cheap jokes."
+ thumbnailUrl: FlorentBiville.png
+ social:
+  - {name: "google-plus", link: "https://plus.google.com/118349835803233673871"}
+  - {name: "twitter", link: "https://twitter.com/fbiville"}
+  - {name: "github", link: "https://github.com/fbiville"}
+  - {name: "linkedin", link: "https://linkedin.com/in/florentbiville"}
+
+-
+ id: 11
+ name: "Pietro A."
+ surname: "Rossi"
+ company: "Mosaicoon S.p.A"
+ title: "Systems Engineer"
+ bio: "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way. Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Droidcon Italy and other international events. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa."
+ thumbnailUrl: PietroAlbertoRossi.jpg
+ social:
+   - {name: "google-plus", link: "https://www.google.com/+PietroAlbertoRossi"}
+   - {name: "twitter", link: "https://twitter.com/sprik89"}
+   - {name: "linkedin", link: "http://linkedin.com/in/pietroalbertorossi"}
+   - {name: "facebook", link: "https://www.facebook.com/sprikmeister"}
+
+-
+  id: 60
+  name: "Koray"
+  surname: "Bahar"
+  title: "CTO"
+  company: "FIT Solutions"
+  thumbnailUrl: KorayBahar.jpg
+
+-
+ id: 9
+ name: "Ahmet"
+ surname: "Alpat"
+ company: "Katı Hal"
+ title: "Founder"
+ bio: "He is an embedded systems, hardware design engineer and founder of Katı Hal. He is cofounder of Arduino Turkiye and board member of Istanbul Hackerspace. He has a blog at ahmetalpat.com"
+ thumbnailUrl: AhmetAlpat.jpg
+ social:
+   - {name: "likedin", link: "http://linkedin.com/in/ahmetalpat"}
+   - {name: "twitter", link: "http://twitter.com/ahmetalpat"}
+   - {name: "facebook", link: "http://facebook.com/ahmetalpat"}
+   - {name: "site", link: "http://ahmetalpat.com"}
+
+-
+ id: 10
+ name: "Emrullah"
+ surname: "Lüleci"
+ company: "Arkony"
+ title: "Software Engineer"
+ bio: "Emrullah Lüleci is a full stack software engineer who is professionalized on Android Development. He loves UI design and implementations, blogging and open sourcing. He is the creator of the Android FlatUI library and some other libraries."
+ thumbnailUrl: EmrullahLuleci.jpg
+ social:
+   - {name: "google-plus", link: "https://plus.google.com/+emrullahluleci"}
+   - {name: "twitter", link: "https://twitter.com/emrullahluleci"}
+   - {name: "github", link: "https://github.com/eluleci"}
+
+-
+  id: 50
+  name: "Ekin Eylem"
+  surname: "Özekin"
+  title: "IT Project Manager at Eastern & African Growth Market "
+  company: "GE Healthcare"
+  bio: "Eylem is a creative, passionate computer scientist who believes that life is too short for bad software. She has a decade of experience in the software industry and worked on a wide range of projects from web applications to smart factory management systems. In 2009, she joined General Electric Company where has been in different roles from software development to leading R&D teams. Eylem still works as a IT Project Manager at Eastern African Growth Market that cover 86 countries in GE Healthcare. Her recent projects includes research and development of next generation of fascinating web and mobile applications for industrial Internet. Her team has received many awards including the excellence, innovation and technology pipeline.She is also certified as PMP, Green Belt and Scrum Master. Eylem received her bachelor’s degree in computer science in 2009. She also studied a year in Austria as an Exchange student and worked in EU funded projects. She master’s degree in software engineering in 2012 from Bogazici University and currently a PhD candidate at the same university. Her current research focuses on machine learning, big data analysis and wireless networks. She currently resides in Istanbul and is passionate about new technologies. She likes playing with web in her spare times."
+  thumbnailUrl: EkinEylemOzekin.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/eylemozekin"}
+    - {name: "linkedin", link: "http://linkedin.com/in/eylemozekin"}
+
+-
+ id: 12
+ name: "Armağan"
+ surname: "Amcalar"
+ company: "Startup Kitchen"
+ title: "Chief Software Architect"
+ bio: "Incubating startups with Startup Kitchen for 3 years, Armagan is responsible for the technical quality of Startup Kitchen’s products. He builds everything with JavaScript—from high performant mobile apps to vastly scalable distributed cloud applications."
+ thumbnailUrl: ArmaganAmcalar.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/aamcalar"}
+   - {name: "github", link: "http://github.com/dashersw"}
+   - {name: "site", link: "http://arm.ag"}
+
+-
+ id: 14
+ name: "Yağız"
+ surname: "Nizipli"
+ title: "Software Engineer"
+ bio: "Currently pursuing Computer Engineering degree at Sabanci University, I’ve worked with great teams and startups from all over the world. I am an open source software supporter. I’ve been giving security, code styling and git related educations for the past 6 months. I’ve released and been involved in more than 10 iOS and Android applications, and developed more on web. My interests are mostly security, secure web and more precisely cryptography."
+ thumbnailUrl: YagizNizipli.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/anonrig"}
+   - {name: "github", link: "http://github.com/anonrig"}
+
+-
+ id: 24
+ name: "Semih"
+ surname: "Yağcıoğlu"
+ company: "MITS"
+ title: "Senior Software Engineer"
+ bio: "Semih is a software developer. He likes to solve problems and get things done. He works at MITS on mobile and web. He is also a PhD student in Computer Science at Hacettepe University with a focus on Computer Vision."
+ thumbnailUrl: SemihYagcioglu.jpg
+ social:
+   - {name: "site", link: "http://www.semihyagcioglu.com"}
+   - {name: "twitter", link: "https://twitter.com/semihyagcioglu"}
+   - {name: "linkedin", link: "https://linkedin.com/in/semih"}
+   - {name: "github", link: "https://github.com/semihyagcioglu"}
+
+-
+  id: 25
+  name: "Mehmet"
+  surname: "İnce"
+  company: "INTELRAD"
+  title: "Cyber Security Engineer"
+  bio: "Mehmet İNCE still continues his duty as the Penetration Test Lead of INTELRAD Turkey. İnce is known to be involved in the field of cyber security since 2004. Especially, he has been recognized with his researches and experience in web applications/servers. He has also worked in a wide variety of projects as a developer and security consultant. So far, İnce has discovered and published security vulnerabilities in more than 150 open source applications. Most of these findings are still available on exploit-db, as well as İnce's blog page, where he shares his ideas about current security issues and offer  his contributions to global security community."
+  thumbnailUrl: MehmetInce.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdisec"}
+    - {name: "github", link: "https://github.com/mmetince"}
+    - {name: "site", link: "https://mehmetince.net"}
+
+-
+  id: 47
+  name: "Tolga"
+  surname: "Eğilmezel"
+  company: "Bilgiodası"
+  title: "Lead Front-End Developer"
+  bio: "After having experience in Back-end development, his journey continues as a Front-end Developer. Lead Front-End Developer at Bilgiodası."
+  thumbnailUrl: TolgaEgilmezel.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tolga_Egilmezel"}
+    - {name: "github", link: "https://github.com/Tolga-Egilmezel"}
+    - {name: "linkedin", link: "https://linkedin.com/in/tolgaegilmezel"}
+
+-
+ id: 27
+ name: "Kaan"
+ surname: "Mamikoglu"
+ company: "Akıllı Yazılım"
+ title: "Mobile Developer"
+ bio: "I am currently a senior in Computer Engineering major at the Anadolu University in Eskisehir, Turkey. I have developed or helped to develop over 20 apps that is published on mobile app stores, both Google Play Store and Apple’s App Store. I am the Google Developer Group (GDG) Eskişehir co-organizer."
+ thumbnailUrl: KaanMamikoglu.jpg
+ ribbon:
+   - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+ social:
+    - {name: "site", link: "https://iamkaan.com"}
+    - {name: "google-plus", link: "https://www.google.com/+kaanmamikoglu"}
+    - {name: "github", link: "https://github.com/iamkaan"}
+    - {name: "linkedin", link: "https://linkedin.com/in/iamkaan"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2121682/iamkaan"}
+
+-
+ id: 28
+ name: "Murat Can"
+ surname: "BUR"
+ company: "Akıllı Yazılım"
+ title: "Developer"
+ bio: "Currently developing mobile applications for Android and creating awesome stuffs for Akıllı Yazılım. He also loves blogging"
+ thumbnailUrl: MuratCanBur.jpg
+ ribbon:
+    - {abbr: "GDG", title: "GDG Eskisehir", url: "http://www.gdgeskisehir.org/"}
+ social:
+    - {name: "site", link: "http://muratcanbur.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MuratCanBUR"}
+    - {name: "github", link: "https://github.com/muratcanbur"}
+    - {name: "twitter", link: "https://twitter.com/muratcanbur"}
+
+-
+  id: 29
+  name: "Orhun Mert"
+  surname: "Şimşek"
+  company: "4pps"
+  title: "CEO"
+  bio: "Loves and develops Android Apps for over 4 years, now he has to develop iOS Apps, too. Very interested with performance optimization and UX for mobile apps. Mert also likes new tech-toys like wearables, smart devices etc. He is Co-Founder of 4pps company which only develops for mobile."
+  thumbnailUrl: MertSimsek.jpg
+  ribbon:
+       - {abbr: "GDG", title: "GDG Ankara", url: "http://www.gdgankara.org/"}
+  social:
+    - {name: "site", link: "http://mertsimsek.net"}
+    - {name: "google-plus", link: "https://plus.google.com/+MertŞimşekMert"}
+    - {name: "linkedin", link: "https://linkedin.com/in/simsekmert"}
+    - {name: "twitter", link: "http://twitter.com/orhunmertsimsek"}
+
+-
+  id: 43
+  name: "Miraç"
+  surname: "Satıç"
+  title: "Firefox Student Ambassador"
+  bio: "He's studying CTIS at the Bilkent University in Ankara, Turkey and he contributed to many open source projects. Also, he is interested in Java, Scala and Python technologies. His team won the first prize at the Startup Weekend 2013 contest in Eskişehir, Turkey. He's working for Mozilla as a Firefox Student Ambassador since November, 2014."
+  thumbnailUrl: MiracSatic.jpg
+  social:
+    - {name: "facebook", link: "http://facebook.com/miracsa"}
+    - {name: "google-plus", link: "https://plus.google.com/+MiraçSATIÇ"}
+    - {name: "linkedin", link: "https://linkedin.com/in/miracsa"}
+    - {name: "twitter", link: "http://twitter.com/miracsa"}
+
+-
+  id: 48
+  name: "Barış"
+  surname: "Güler"
+  title: "Front-end Developer"
+  company: "Markafoni"
+  bio: "I started my career as a Java backend developer and now I am working as a Javascript developer at Markafoni. We have been currently using some modern web development tools, libraries and frameworks like Knockout, Backbone, etc and trying to improve the codebase as well with some maintenance optimizations. Nowadays, I am working on automated task tools, environment development and architecting applications."
+  thumbnailUrl: BarisGuler.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/hwclass"}
+    - {name: "github", link: "http://github.com/hwclass"}
+-
+  id: 51
+  name: "İsmet"
+  surname: "Özalp"
+  title: "Co-Founder"
+  company: "Hive"
+  thumbnailUrl: IsmetOzalp.jpg
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/ismetozalp"}
+
+-
+  id: 52
+  name: "Salim"
+  surname: "Kayabaşı"
+  title: "Web Developer"
+  company: "KapGel"
+  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
+  thumbnailUrl: SalimKayabasi.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
+    - {name: "github", link: "https://github.com/salimkayabasi"}
+    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
+    - {name: "site", link: "http://blog.salimkayabasi.com"}
+
+-
+  id: 53
+  name: "Hasan"
+  surname: "Keklik"
+  title: "Developer"
+  company: "KapGel"
+  thumbnailUrl: HasanKeklik.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hasankeklik"}
+    - {name: "github", link: "https://github.com/keklikhasan"}
+    - {name: "google-plus", link: "https://plus.google.com/+HasanKeklik"}
+    - {name: "twitter", link: "https://twitter.com/keklikhasan"}
+
+-
+  id: 54
   name: "Said Tahsin"
   surname: "Dane"
   title: "Android Developer"
@@ -15,71 +724,56 @@
     - {name: "site", link: "http://www.tasomaniac.com"}
 
 -
-  id: 1
-  name: "Salim"
-  surname: "Kayabaşı"
-  title: "Web Developer"
-  company: "KapGel"
-  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
-  thumbnailUrl: SalimKayabasi.jpg
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
-  social:
-    - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
-    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
-    - {name: "github", link: "https://github.com/salimkayabasi"}
-    - {name: "site", link: "http://blog.salimkayabasi.com"}
+  id: 55
+  name: "Vildan"
+  surname: "Ilkı"
+  title: "Android Developer"
+  company: "Türksat A.Ş."
+  bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying softwate management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
+  thumbnailUrl: VildanIlki.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
+    - {name: "twitter", link: "https://twitter.com/vildanilki"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/vildanilki/"}
 
 -
-  id: 2
-  name: "Busra"
-  surname: "Deniz"
-  title: "Mobile Software Developer"
-  company: "Netas"
-  bio: "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies especially Scrum. She is a Certificated Scrum Master and mobile engineer in Netas "
-  thumbnailUrl: BusraDeniz.jpg
+  id: 56
+  name: "Faruk"
+  surname: "Yazıcı"
+  title: "Software Developer"
+  company: "Eteration A.Ş."
+  bio: "Faruk studied computer engineering at İstanbul Technical University. He has several years of software development experience in many platforms, mainly in Java and Android. Besides his personal projects and applications written in Android, he is now a part of enterprise development. Aside from programming, he has over 5 years of professional experience in UI design a few years in UX development. Also, since his early years in university, Faruk has been giving lectures on some programming languages and design programs. He currently works as an application developer and instructor at Eteration A.Ş."
+  thumbnailUrl: FurkanYazici.png
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+
+-
+  id: 57
+  name: "Aycan"
+  surname: "Aracı"
+  company: "GDG Istanbul"
+  bio: "I graduated from METU in 2012. I worked as a game designer at Pixofun for 1.5 years. Now I am working for Infoline Information Technologies. My passion is about gaming and I am trying to share my experience about psychological product design and development. I am a member of GDG Ankara."
+  thumbnailUrl: AycanAraci.jpg
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/107161766252148547668"}
-    - {name: "twitter", link: "https://twitter.com/busradeniz"}
-    - {name: "site", link: "http://www.busradeniz.com"}
+    - {abbr: "GDG", title: "Google Developer Groups Ankara", url: "http://www.gdgankara.com"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/thinksimpler"}
+    - {name: "linkedin", link: "tr.linkedin.com/in/aycanaraci/"}
 
-#-
-#  id: 3
-#  name: "Halid"
-#  surname: "Altuner"
-#  title: "DevOps Engineer"
-#  company: "Türksat A.Ş."
-#  bio: "Duyurulacak"
-#  thumbnailUrl: HalidAltuner.jpg
-#  social: 
-#    - {name: "twitter", link: "https://twitter.com/halidaltuner"}
-#    - {name: "linkedin", link: "https://tr.linkedin.com/in/halidaltuner"}
-#	- {name: "github", link: "https://github.com/halid"}
 
-#-
-#  id: 55
-#  name: "Vildan"
-#  surname: "Ilkı"
-#  title: "Android Developer"
-#  company: "Türksat A.Ş."
-#  bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying softwate management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
-#  thumbnailUrl: VildanIlki.jpg
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
-#    - {name: "twitter", link: "https://twitter.com/vildanilki"}
-#    - {name: "linkedin", link: "https://tr.linkedin.com/in/vildanilki/"}
+-
+  id: 58
+  name: "Oytun Eren"
+  surname: "Sengul"
+  company: "Userspots"
+  bio: "He is interested in everything related to mobile, community, operating systems and kernels. Currently, he’s working on mobile UX projects and is the Business & Communications Director at Userspots. Proudly member of Linux Foundation and is a contributor in Intel Software projects. He is one of the developers of Automotive Grade Linux. Currently, working on SLP and presents his studies on various conferences. He took part in various Smartface Inc., Nokia and Turkcell projects as a Community Manager. I’ve started with Maemo and MeeGo, but now I’m developing for iOS, Android, Windows Phone and Tizen."
+  thumbnailUrl: OytunSengul.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/oytunatlinux"}
 
-#-
-#  id: 56
-#  name: "Faruk"
-#  surname: "Yazıcı"
-#  title: "Software Developer"
-#  company: "Eteration A.Ş."
-#  bio: "Faruk studied computer engineering at İstanbul Technical University. He has several years of software development experience in many platforms, mainly in Java and Android. Besides his personal projects and applications written in Android, he is now a part of enterprise development. Aside from programming, he has over 5 years of professional experience in UI design a few years in UX development. Also, since his early years in university, Faruk has been giving lectures on some programming languages and design programs. He currently works as an application developer and instructor at Eteration A.Ş."
-#  thumbnailUrl: FurkanYazici.png
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
-#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+-
+  id: 59
+  name: "Dorine"
+  surname: "Flies"
