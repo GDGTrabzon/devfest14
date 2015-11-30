@@ -4,7 +4,7 @@
   surname: "Dane"
   title: "Android Developer"
   company: "VNGRS"
-#  bio: "Android Developer who also cares about UX a lot. Trying to improve himself in terms of mobile UX as an engineer. Currently working on Leaf Business POS platform, a Boston based startup. Co-organizer at GDG Istanbul. Google Glass Explorer. Hackathon Lover."
+  bio: "Android Developer who also cares about UX a lot. Trying to improve himself in terms of mobile UX as an engineer. Currently working on Leaf Business POS platform, a Boston based startup. Co-organizer at GDG Istanbul. Google Glass Explorer. Hackathon Lover."
   thumbnailUrl: SaidTahsinDane.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
@@ -20,7 +20,7 @@
   surname: "Kayabaşı"
   title: "Web Developer"
   company: "KapGel"
-#  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
+  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
   thumbnailUrl: SalimKayabasi.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
@@ -36,7 +36,7 @@
   surname: "Deniz"
   title: "Mobile Software Developer"
   company: "Netas"
-#  bio: "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies especially Scrum. She is a Certificated Scrum Master and mobile engineer in Netas "
+  bio: "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies especially Scrum. She is a Certificated Scrum Master and mobile engineer in Netas "
   thumbnailUrl: BusraDeniz.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
@@ -51,7 +51,7 @@
   surname: "Altuner"
   title: "DevOps Engineer"
   company: "Türksat A.Ş."
-#  bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying softwate management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
+  bio: "Duyurulacak"
   thumbnailUrl: HalidAltuner.jpg
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
