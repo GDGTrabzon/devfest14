@@ -17,22 +17,6 @@
 
 -
   id: 1
-  name: "Salim"
-  surname: "Kayabaşı"
-  title: "Web Developer"
-  company: "KapGel"
-  bio: "After past 3 years with C# and other MS Techs, he deciced to be part of GDG Istanbul at 2012. Since that day working on Android and NodeJS. Also he founded NodeJS Turkey community with friends. Now working as full-stack developer in SaaS company for delivery business."
-  thumbnailUrl: SalimKayabasi.jpg
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
-  social:
-    - {name: "linkedin", link: "https://linkedin.com/in/salimkayabasi"}
-    - {name: "twitter", link: "https://twitter.com/salimkayabasi"}
-    - {name: "github", link: "https://github.com/salimkayabasi"}
-    - {name: "site", link: "http://blog.salimkayabasi.com"}
-
--
-  id: 2
   name: "Busra"
   surname: "Deniz"
   title: "Mobile Software Developer"
@@ -47,17 +31,18 @@
     - {name: "site", link: "http://www.busradeniz.com"}
 
 -
-  id: 3
+  id: 2
   name: "Halid"
   surname: "Altuner"
   title: "DevOps Engineer"
   company: "Türksat A.Ş."
-  bio: "Duyurulacak"
+  bio: ""
   thumbnailUrl: HalidAltuner.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/halidaltuner"}
     - {name: "linkedin", link: "https://tr.linkedin.com/in/halidaltuner"}
     - {name: "github", link: "https://github.com/halid"}
+    - {name: "site", link: "http://halid.org/"}
 
 #-
 #  id: 55
