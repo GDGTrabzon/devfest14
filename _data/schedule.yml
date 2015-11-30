@@ -15,25 +15,25 @@
         parallel: 1,
         startTime: "09:30",
         endTime: "10:00",
-        sessionIds: [127,114,143,147]
+        sessionIds: [997]
     }
     - {
         parallel: 1,
         startTime: "10:00",
         endTime: "11:00",
-        sessionIds: [997]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
         startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [102,144,142,148]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
         startTime: "12:00",
         endTime: "12:45",
-        sessionIds: [113,112,107,116]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
@@ -45,23 +45,23 @@
         parallel: 1,
         startTime: "14:00",
         endTime: "15:00",
-        sessionIds: [600,105,115,135]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
         startTime: "15:00",
         endTime: "16:00",
-        sessionIds: [149,126,123,103]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [122,130,106,104]
+        sessionIds: [999]
     }
     - {
         parallel: 1,
         startTime: "17:00",
         endTime: "17:15",
-        sessionIds: [118,249,101,108]
+        sessionIds: [999]
     }

@@ -8,11 +8,11 @@
   service: true
 -
   id: 997
-  title: "Welcome to DevFest'14 Istanbul"
-  speakers: [36,60]
+  title: "Welcome to DevFest'15 Trabzon"
+  service: true
 -
   id: 996
-  title: "Registration"
+  title: "Kayıt"
   service: true
 
 -
