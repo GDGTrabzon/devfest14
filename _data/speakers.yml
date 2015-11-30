@@ -54,7 +54,6 @@
   bio: "Duyurulacak"
   thumbnailUrl: HalidAltuner.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+VildanIlki"}
     - {name: "twitter", link: "https://twitter.com/halidaltuner"}
     - {name: "linkedin", link: "https://tr.linkedin.com/in/halidaltuner"}
 	- {name: "github", link: "https://github.com/halid"}

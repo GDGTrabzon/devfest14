@@ -76,7 +76,7 @@ latestNewsTitle: "Son haberler"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar Konuşmacılar"
 rockstarSpeakersButtonText: "Tüm konuşmacıları gör."
 
@@ -128,7 +128,7 @@ footerBlocks:
    - {link: "http://www.gdgtrabzon.com", text: "GDG Trabzon"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "İletişim"
+  title: "İletisim"
   links:
    - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
