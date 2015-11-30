@@ -37,12 +37,12 @@ socialImageSrcFacebook: "/img/organizers/GDG_Trabzon.svg"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/#partners", text: "Sponsors"}
- - {permalink: "/organizers", text: "Organizers"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/", text: "Anasayfa"}
+# - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Konusmacılar"}
+ - {permalink: "/#partners", text: "Sponsorlar"}
+# - {permalink: "/organizers", text: "Organizatorler"}
+ - {permalink: "/logistics/", text: "Ulasım"}
 # - {link: "http://2013.devfesttr.com", text: "DevFest'13"}
 # - {link: "http://wtm14.devfesttr.com", text: "DevFest Women'14"}
 #bottomNavigationLinks:
