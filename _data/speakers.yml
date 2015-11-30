@@ -1,5 +1,5 @@
 -
-  id: 1
+  id: 0
   name: "Said Tahsin"
   surname: "Dane"
   title: "Android Developer"
@@ -15,7 +15,7 @@
     - {name: "site", link: "http://www.tasomaniac.com"}
 
 -
-  id: 2
+  id: 1
   name: "Salim"
   surname: "Kayabaşı"
   title: "Web Developer"
@@ -31,7 +31,7 @@
     - {name: "site", link: "http://blog.salimkayabasi.com"}
 
 -
-  id: 3
+  id: 2
   name: "Busra"
   surname: "Deniz"
   title: "Mobile Software Developer"
@@ -46,7 +46,7 @@
     - {name: "site", link: "http://www.busradeniz.com"}
 
 -
-  id: 4
+  id: 3
   name: "Halid"
   surname: "Altuner"
   title: "DevOps Engineer"
