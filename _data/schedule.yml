@@ -1,14 +1,56 @@
-#-
-#  date: "2015-12-13"
-#  dateReadable: "Sessions"
-#  parallelCount: 1
-#  tracks:
-#    - {parallel: 1, title: "Hall A", color: "#90be4e"}
-#
-#  timeslots:
-#    - {
-#        parallel: 1,
-#    	startTime: "08:00",
-#    	endTime: "08:45",
-#    	sessionIds: [996]
-#    }
+- 
+  date: "2015-12-13"
+  dateReadable: "13 Aralık"
+  tracks: 
+    - {title: "Salon A", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "09:30",
+    	sessionIds: [120]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [119]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: []
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:10",
+        sessionIds: []
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:45",
+        sessionIds: []
+    }
+    - {
+        startTime: "12:45",
+        endTime: "14:00",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: []
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: []
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: []
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:15",
+        sessionIds: []
+    }

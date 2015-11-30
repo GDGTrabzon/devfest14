@@ -1,368 +1,171 @@
 -
-  id: 999
-  title: "Will be announced"
+  id: 307
+  title: "Kahve Arası"
+  place: "Etkinlik Alanı"
+  service: true
+  description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
+-
+  id: 503
+  title: "Öğle Arası"
+  place: "Etkinlik Alanı"
   service: true
 -
-  id: 998
-  title: "Lunch Break"
-  service: true
+    id: 101
+    title: "Android 101: Introduction to Android Workshop"
+    description: "Android 101 will teach you these:<br>-What is Android?<br>-How to use Android Studio?<br>-What is Gradle?<br>-What is Activity? What is View?<br>-What are Resources?<br>-How to make a small and sweet Android Application?<br>-and How to release an application to Google Play Store?"
+    subtype: workshop
+    speakers: [1]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 997
-  title: "Welcome to DevFest'14 Istanbul"
-  speakers: [36,60]
+    id: 102
+    title: "Android 101: Introduction to Android Workshop"
+    description: "Our workshop has two sessions. First session is a presentation which will give short and interesting infos about Android. At the second session, we will get into action and we develop our first application which is beginner level on Android Studio."
+    subtype: workshop
+    speakers: [2]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 996
-  title: "Registation"
-  service: true
+    id: 103
+    title: "Ada Lovelace Day, Woman Tech Makers"
+    description: "This presentation will be about Who is Ada Lovelace? Why we are doing Ada Lovelace day and Woman Tech Makers events?"
+    subtype: presentation
+    speakers: [3]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 600
-  title: "Mobile Opportunities in Turkey"
-  description: "Mobile Opportunities in Turkey"
-  language: tr
-  speakers: [37,38,39,40]
+    id: 104
+    title: "Bilgisayarınızı Cebinizde Taşıyın"
+    description: "Raspberry Pi kullanımına dair en temel seviyeden başlayacağımız workshop herkesin katılımına açık olacaktır. Anlatılacaklar;, Raspberry Pi kullanımı için gerekli Linux ve Elektronik bilgis, Raspberry Pi kurulum, Raspberry Pi Uygulamaları (GPIO, Kamera, Python, Minecraft), Raspberry Pi’a yazılım yükleme ve kullanım (Webiopi, Wiringpi)"
+    subtype: presentation
+    speakers: [4]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 601
-  title: "GDG Panel"
-  description: "Being GDG"
-  language: tr
+    id: 105
+    title: "PardusARM"
+    description: "PardusARM'dan Beklenti ve istekleriniz!, PardusARM ile ortak projeler, eğitimler ve gönüllü topluluklar."
+    subtype: workshop
+    speakers: [5]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 101
-  speakers: [1]
-  title: "Web Development in Angular Way"
-  description: "In this talk, we are going to review that old cultural technic for front end development in Angular way and olso best parts of Angular futures."
-  language: tr
+    id: 106
+    title: "Android ile RealTime uygulamalar geliştirmek"
+    description: "Spotify , Whatsapp ve birçok büyük firmaların kullanmış oldukları süper hızlı tepki veren servislerin yazılması ve oturumda Spotify connect klonu yazmak ve 5+ cihaz bağlamak "
+    subtype: workshop
+    speakers: [6]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 102
-  speakers: [2]
-  title: "5 reasons why NetBeans should be in every developer's toolkit"
-  description: "If you have never heard of NetBeans, think that NetBeans is just a Java IDE, want to write better code, want to play with cool new technologies, or just want a better way to develop desktop applications quickly, this talk is for you.... I will give you a whistle stop tool of the multiple languages NetBeans supports, show you the built in examples and tools inside NetBeans for developing, testing and improving code, automating functions with netBeans, introduce you to the platform and show you how easy NetBeans makes it to build applications with very little code."
-  language: en
+    id: 107
+    title: "Docker 101"
+    description: "What is docker? How docker is work? Docker Toolbox ( docker machine, docker swarm, docker compose etc.)"
+    subtype: workshop
+    speakers: [7]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 103
-  speakers: [3]
-  title: "Succeed with your Android application."
-  description: "Most apps fail, and it can happen to your Android application too. So what do I need to do to make it a success? This talk will (hopefully) give you a insight on how to prevent the pitfall of failure, and show you what you need to take in consideration when developing your Android app."
-  language: en
+    id: 108
+    title: "Yazılım Psikolojisi"
+    description: "Teknolojinin ve sanayinin hızla ilerlemesi sonucu gün geçtikçe yazılımların kullanım oranı artıyor ve buna bağlı olarak da mükemmel çözümler getiriyor. Nasıl ki insanın psikolojisi pozitifken diğer insanlara da pozitif enerji yayıyorsa yazılımlar da bilinçaltında psikolojik sonuçlar doğurur. Yazılımların psikolojisi, yazılımı kullanan kişilere etki eder ve bazı sonuçlar sergiletir. Yazılımın psikolojisini en üst seviyede pozitif etki vermesini sağlarsak yazılımdan en iyi faydayı sağlayabiliriz. İşin sırrı bunu nasıl yapabilmek. Günümüzde birçok yazılım ortaya çıkıyor değişik platformlarda; bazıları istenilen hedefleri verirken bazıları hedefini ulaşamıyor hatta kullananı bile çıkmıyor. Yazılım da insansı bir özelliğe bürünmüştür çünkü. Kendini anlatabilmesi ve karşı tarafa nasıl bir kolaylık sağlaması gerektiğini anlatması gerekir. Bu psikolojiyi doğru grafik, doğru tasarım, doğru kod, doğru iletişim yöntemleriyle yapılırsa en iyi verim elde edilir ve kullanıcı bu yazılımı kendisi için zorunluymuş gibi hisseder. Özetle yazılımın yansıttığı psikolojiye doğru yönlendirmeler yapmak gerekir."
+    subtype: workshop
+    speakers: [8]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 104
-  speakers: [4,3]
-  title: "The hitchhiker's guide to functional testing"
-  description: "Android development and testing go hand in hand. When it comes to automated functional testing there are plenty of frameworks out there. During this interactive session Wiebe and Ali will be presenting a fine selection that could help you decide what to use in your next project. Some of the frameworks they will talk about are Robotium, Robolectric, UIAutomator, Calabash, Selendroid and Espresso. And since it’s a developer conference there will be code as well!"
-  language: en
+    id: 109
+    title: "Mobil Uygulamalar ve App Inventor"
+    description: "Konu: Mobil Teknolojiler Dil Türkçe ve Başlangıç seviyesinde olacaktır. Bu workshop içerisinde Google ve MIT ortak ürünü olan App Inventor ile android uygulaması geliştirerek bir başlangıç yapacağız. İçerik: -App Inventor nedir? Kimlere hitap eder?, -Ne tür mobil uygulamalar yapılabilir?, -Hızlı ürün çıkarmanın faydaları?, -App Inventor ile nasıl uygulama geliştiririz?, -Yapamayacaklarınız, -Geleceği Yazanların sunduğu kaynaklar,"
+    subtype: workshop
+    speakers: [9]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 105
-  speakers: [5]
-  title: "PrimeTime JSF with PrimeFaces"
-  description: "JavaServer Faces provides a powerful infrastructure for building RIA applications rapidly with Java EE. Combined with PrimeFaces, JSF unleashes its true power. This session takes you on a tour of the latest version of PrimeFaces—featuring a rich set of components, powerful Ajax APIs, a mobile web application RenderKit, the dialog framework, extensive client-side validation, a real-time push framework, and live scrolling—and explores the roadmap to JSF heaven."
-  language: tr
+    id: 110
+    title: "MongoDb for Java Developers"
+    description: "MongoDb ve Kullanım alanları, Performans ,özellikler ve melez mimariler ile entegrasyonları. Java ile kullanımı."
+    subtype: presentation
+    speakers: [10]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 106
-  speakers: [6]
-  title: "Single Page JavaScript Applications"
-  description: "See full JavaScript single page web & mobile applications on the stage from development from production."
-  language: tr
+    id: 111
+    title: "Microsoft"
+    description: ""
+    subtype: presentation
+    speakers: [11]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 107
-  speakers: [7]
-  title: "Developing for the Big Screen - from Android TV to Chromecast"
-  description: "With the new release of Lollipop we have finally an updated API Level for Google TV, oops Android TV. This is not the only approach by Google for the large screen. There is also the Chromecast, a HDMI dongle/ media player. This Session gives an introduction how you can develop for Android TV and the ChromeCast. It presents the tools and also the support library for creating own Screens, based on an example application."
-  language: en
+    id: 112
+    title: "D3js ile Verinin Görselleştirilmesi"
+    description: "Data-Driven Documents olarak da bilinen D3.js (d3js.org) verinin görselleştirilmesi için kullanılan bir JavaScript kütüphanesidir. Büyük verinin de etkisiyle, tarayıcı üzerinde zengin görselleştirmelerin oluşturulması için son zamanlarda D3.js’in popülerliği giderek artmaktadır. İlk başlarda alt seviye görsel bir kütüphane olarak kullanılan D3.js, son zamanlarda kendisini temel alan, özelleşmiş, kullanımı kolay bir çok yeni kütüphanenin çıkmasını sağlamıştır. Bol bol görsel örnek içerecek olan bu sunumda, D3.js’e giriş yapılacak, kütüphanenin temel yapı-taşları anlatılacak ve veri görselleştirilmesinde D3.js’in neden bu kadar kullanıldığı anlatılmaya çalışılacaktır."
+    subtype: presentation
+    speakers: [12]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 108
-  speakers: [8]
-  title: "Spring Data Neo4j: from 0 to Hero"
-  description: "This live coding session will show you how to rapidly develop powerful applications with Neo4j, the leading graph database, without sacrificing code quality and architecture. This session is meant to be interactive, feel free to ask questions at any points!"
-  language: en
+    id: 113
+    title: "Teknolojiyi Sömürmek"
+    description: "Yazılım geliştiriciler olarak onlarca farklı araç kullanıyoruz. Teknoloji üretirken, teknolojinin üretmiş olduğu araçlar bunlar. Bu araçları ne kadar iyi tanıyoruz ? Neden iyi tanımalıyız? Sıklıkla karşılaştığım bir sorun şu ki, insanlar kullandıkları araçların yeteneklerinden bihaber durumdalar. Üstelik bu insanlara teknoloji üreten biz yazılımcılar da dahiliz. Kullandığımız IDE'nin file watcher desteği olduğundan haberimiz olmadığı için küçücük işlere, adını sıkça duyduğumuz grunt'ı dahil edebiliyoruz. Kullandığımız dilin çözdüğü sorunları bilmediğimizden, hiç gerek yokken satırlarca kod yazabiliyoruz. Kullandığımız framework'e hakim olmadığımız zaman, bunu framework yapabiliyor mu diye sormak yerine, yazmaya ve sorunu gerilla taktiğiyle çözmeye çalışıyoruz. Bunları nasıl aşabiliriz ? Yazılım geliştirirken elimizdeki araçları en iyi hangi şekilde kullanabiliriz?"
+    subtype: presentation
+    speakers: [13]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 109
-  speakers: [9]
-  title: "Hardware for software developers: how to design a hardware based product."
-  description: "Hardware is the new package of software. As a software developer, how are you planning to ship your software in this new package? In this talk, we will try to figure out how to use development and prototyping boards like Arduino, Raspberry Pi, BeagleBone to create a project POC and early versions of your products."
-  language: tr
+    id: 114
+    title: "Modern PHP & PHP 7 "
+    description: "Oturumda PHP ekosisteminde son birkaç yılda olan modern gelişmeler yanı sıra Ekim ayının ortasında RC5 sürümü yayınlanan ve yıl sonuna kadar hayatımıza girecek olan PHP 7 yakından incelenecek. Modern araçlar, ekosistem ve topluluktan bahsedilecek bu sunum, her seviyeden geliştiriciye hitap ediyor!"
+    subtype: presentation
+    speakers: [14]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 110
-  speakers: [10]
-  title: "Realtime Android Applications with Web Socket"
-  description: "In this talk we'll take a look at web socket usage in Android applications and we'll see how to update the models and UI effectively according to the instant data changes from the server."
-  language: en
+    id: 115
+    title: "Developing a Succesfull UX Strategy"
+    description: "In this presentation, we will talk about the importance of  UX strategy. UX strategy is about building a rationale to guide UX design efforts for the foreseeable future. UX strategy communicates a vision, priorities, design direction, and roadmap to serve as a North Star for all of the people in an organization who are planning and building digital products and programs. UX strategy is fundamentally based on data, but also encompasses creative leaps that let teams innovate and adapt to rapidly evolving technology contexts."
+    subtype: presentation
+    speakers: [15]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 111
-  speakers: [11]
-  title: "How Material Design can change your mind"
-  description: "Developers know that they had better to change continuosly the way of programming anything. With Material Design every developer can improve their application with minimal effort and quickly. Create a beautiful and user friendly application have never been so easy and the only thing that we do is just write code and material it!"
-  language: en
+    id: 116
+    title: "Building REST API with Go Lang"
+    description: "Go programlama dili son zamanlarda oldukça popüler ve bir çok startup tarafından tercih edilmekte. Bu sunumda Go dilinin standart HTTP paketlerinin güçlü ve zayıf yanlarından, Go data yapılarının JSON ilişkilerinden, Gorilla web toolkitinden, bazı popüler frameworklerin güçlü ve zayıf yanlarından,  bahsedilecektir."
+    subtype: presentation
+    speakers: [16]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 112
-  speakers: [12]
-  title: "Unlocking Native Performance for Hybrid Mobile Apps with tartJS"
-  description: "Hybrid mobile apps, that mix HTML5 technologies with native shells, are a great idea when it comes to deploying your app to multiple mobile operating systems. Many frameworks such as jQuery Mobile, Sencha Touch or Ionic exist to make your development easier. But performance and experience on the device is in fact far from native. In this talk, I'll share our hybrid mobile apps know-how at Startup Kitchen, which we've been developing for over two years. We'll look at performance bottlenecks, best practices, browser behavior and finally, how we develop our mobile apps using our home-grown tartJS mobile framework based on Google Closure Library."
-  language: tr
+    id: 117
+    title: "Android and Electrons"
+    description: "Android paltformunda her geliştiricinin kullanması gerektiğini düşündüğüm; -Retrofit -Retrolamda -Picasso -Dagger -MVP Pattern -Butterknife gibi konuları ele alıp kullanımını göstereceğim."
+    subtype: presentation
+    speakers: [17]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 113
-  title: "Coding for Desktop and Mobile with HTML5 and Java EE 7"
-  description: "How can you make sure that your next web application supports not only the desktop browser but also all other devices and screen sizes? And that it can efficiently talk to back-end services in a bidirectional way? With new concepts for client-side development such as responsive web design, MVVM frameworks, and hybrid web applications and with new APIs for WebSocket, REST services, JSON, and more, Java EE 7 with HTML5 may be the best combination to meet your needs. Attend this code-driven session, i.e., there will be one or two slides but no more than that, to see how you can efficiently develop such an application and how advanced integrated tools can help you with both server and client code."
-  speakers: [13]
-  language: en
+    id: 118
+    title: "Arduino ile android mobil cihazdan bluetooth modül aracığıyla kontrol edebilmek"
+    description: "-Arduino seri haberleşme portlarının incelenmesi -Seri haberleşme portlarının arduino üstünden kullanıması -Arduino dan veri okuma, veri gönderme ya da android cihaz üstünden verilecek komutlara göre arduino'nun yönetilmesi Uygulama olarak android uygulamasından verilecek kodlarla RGB led sürülmesi."
+    subtype: workshop
+    speakers: [18]
+    language: tr
+    complexity: "Beginner"
 -
-  id: 114
-  speakers: [14]
-  title: "Web Development: Making it the right way"
-  description: "Web development is a tricky part for most of the developers in our era. With the use of popular templating engines such as Jade and Stylus and compiling it with Grunt and Node.js, test-driven programming and use of different environments, became more useful than ever. In this presentation, we will go over the basics of jade and stylus, and show you the methods to create different environments for different platforms for your web application, including hybrid mobile applications."
-  language: tr
+    id: 119
+    title: "Açılış Konuşması"
+    description: "Açılış Konuşması"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
 -
-  id: 115
-  speakers: [15]
-  title: "How Web Servers May Be Compromised and a Real Time Solution"
-  description: "Thousands of websites are infected each day to distribute malware or capture sensitive information. With the use of a vulnerability in a real-world PHP application and a live demonstration, we will illustrate how poor application design, bad web server configuration and unexpected server software behaviour can lead to a server vulnerable to being compromised. We will conclude by introducing a real time defence mechanism against attacks on PHP based websites."
-  language: en
--
-  id: 116
-  speakers: [16]
-  title: "Introduction to Vaadin"
-  description: "Vaadin is Java framework for rapid development of highly interactive HTML5-based web applications in a server-side environment. It abstracts the web from your applications, allowing them to be developed in pure Java following desktop application patterns and design. Vaadin leverages the full power of GWT, a Java to Javascript compiler making it possible to develop the entire web application stack and new client-side components without leaving the Java environment. During the session attendees will get an overview of Vaadin 7.3, a closer look at the Vaadin architecture and what really happens behind the scenes of the framework. New features of Vaadin 7.4 will also be briefly discussed."
-  language: en
--
-  id: 216
-  speakers: [16]
-  title: "Creating Mobile Applications With 100% Java"
-  description: "Vaadin is Java framework for rapid development of highly interactive HTML5-based web applications in a server-side environment. With the Vaadin TouchKit add-on, we provide mobile developers powerful tools to create server-based web applications that look and feel almost native, without leaving our Java tooling behind. During the session attendees will get an overview of Vaadin TouchKit, with tips and tricks for mobile development using Vaadin."
-  language: en
--
-  id: 117
-  speakers: [17]
-  title: "Building our next big thing on a weekend"
-  description: "Being the guy-for-all, full-stack developer is nowadays easier than ever. And even though putting all the workload and pressure into one person is obviously not beneficial in most cases, this fact on the other hand enables us to prototype our projects and ideas much quicker and just by ourselves, but also takes repetitive work and other time consumers away from our todo list. We'll explore how state of the art on technologies like App Engine, Android, Web or iOS together with online tools like repository hosting services, online free training and cloud storage services among others, provide us with the right environment to prototype our ideas quickly, reaching MVPs through a quick iterative development process. To illustrate that process we'll build a simple cross-platform app on Android with an Api on App Engine. We'll use Python on the api side (sample code for Go will be also provided)."
-  language: en
--
-  id: 118
-  speakers: [18]
-  title: "The user experience of branding"
-  description: "Brands like to be available on mobile platforms. They try to brand anything. So we get very complex ideas, which are sometimes ending up in a mess. We have to deal with this problem. I will ask and answer the question why we brand. I share a better insight and talk about solutions how we can integrate branding into our concept instead of having logo’s and wrong buttons everywhere."
-  language: en
--
-  id: 119
-  speakers: [19]
-  title: "Test-Driven Android Development"
-  description: "Everybody knows testing is important, so let’s focus on test-driven development, testing best practices and the most useful Android testing libraries in our quest to improve the user experience and developer happiness. In this talk you'll get an overview of how several types of testing (unit, integration, UI testing) fit into an Android project. The Android team has improved the testing story for Android during the years, but the Android testing framework can be complemented with several other tools and libraries to help you build better quality applications. And let's not forget that the ease and thoroughness of your testing is also determined by the architecture of your application. We'll show you how to get the most out of Android's testing infrastructure, in order to enable you to build great quality apps."
-  language: en
--
-  id: 120
-  speakers: [20]
-  title: "Love your Lambdas"
-  description: "Java 8 finally introduced Lambdas into the language. We love them and we hate them. In this talk you will get a glimpse of how you change the way you code for the better and see Eclipse Luna support for Java8"
-  language: tr
--
-  id: 121
-  speakers: [21]
-  title: "Scaling MongoDB"
-  description: "You've got MongoDB deployed, but your app has taken off and you need to set it up to perform under heavy loads. MongoDB offers sharding capabilities so we can horizontally scale our application and ensure consistent performance. In this session, we will go through scaling options for our application. You will walk away deeper understanding of how to configure your sharding setup, choose a shard key and leverage this feature for optimal scale."
-  language: en
--
-  id: 122
-  speakers: [22]
-  title: "Traits of High Quality Apps"
-  language: en
--
-  id: 123
-  speakers: [23]
-  description: "This session will walk you through the features of Maven by starting with the anatomy of a Maven application, its build lifecycle and dependency management mechanism along with the project creation with archetypes, the configurative features and plugin development with MOJOs."
-  title: "Intelligent projects with Maven"
-  language: tr
--
-  id: 124
-  speakers: [24]
-  title: "Developing Android Wear Apps"
-  description: "Mobile changed our lives in many ways we could not imagine. Wearable devices are the most important change since the mobile revolution. We are at the beginning of a turning point. It is now becoming possible to go beyond our dreams and start developing for wearable devices. Come and see what Android Wear has to offer! Take a step and start today. See why and how to develop Android Wear apps."
-  language: tr
--
-  id: 125
-  speakers: [25]
-  title: "Web Application Attacks and Trusting Frameworks"
-  description: "Frameworks are undeniably one of the most important elements of frameworks. As we continue to witness a significant increase in number of framework-based attacks towards web applications each day, usage of Frameworks without considering security-related aspects continue to be the most drastic problem that developers face. Throughout the presentation; Mr. İnce will analyze one of the most commonly-used PHP web frameworks by highlighting important security considerations; followed by a real-time exploitation of discovered vulnerability in LAB environment."
-  language: tr
--
-  id: 130
-  speakers: [26]
-  title: "Develop, Distribute and Monetize with Google Mobile Ads"
-  description: "General understanding of mobile application monetization: Develop, Distribute, Monetize. Monetizing with Scale and Quality. Why Google AdMob: UX and Value. Analyzing Users with Google Analytics and leveraging the opportunity. Exploring Mediation and latest offerings of Google Mobile Ads."
-  language: en
--
-  id: 127
-  speakers: [27,28]
-  title: "Designing and developing a watch face for Android Wear & Material Design in Android"
-  description: "First: Android Wear is one of the hottest topics in these days. When we take a look at the currently available watch faces, the first thought most of us will probably get is what if we could decide what we see on our wrist every time we look at it. Since the official docs are not really covering implementation of custom watch faces, let's sit together and learn how to design and build beautiful watch faces on Android Wear by ourselves. After: Forget everything about material design. Google is changing the definition."
-  language: tr
--
-  id: 129
-  speakers: [29]
-  title: "Andromance - Android Performance Optimization"
-  description: "In this section, some tricks and hints about optimizing an Android app’s performance will be given. There will be compare between “the good” and “the bad” ones. Then “how would we optimize the bad one?” will be discussed."
-  language: tr
--
-  id: 126
-  speakers: [30,31]
-  title: "Audience Development and App Analytics with Google"
-  description: "Useful tips on Audience Development and Understanding your users"
-  language: en
--
-  id: 132
-  speakers: [32]
-  title: "The Habits of Highly Effective Teams"
-  description: "Most software development teams deliver applications over budget, not on time, and with a distinct lack of quality. So how do you transform your organization and teams from a cost center into part of your revenue-generating business? How do you get your IT teams to work at their creative best? How do you create those magic “x10” teams that people keep talking about? Over the past 13 years, Martijn Verburg (a.k.a. The Diabolical Developer) has specialized in transforming technical teams. In this session, he covers the cultural and technical habits of highly effective teams in organizations from deep-tech startups through to ponderous government departments. He unveils the truth and tells you what not to do, based on bitter first-, second-, and thirdhand experience."
-  language: en
--
-  id: 133
-  speakers: [33]
-  title: "Intel on Android: Nexus Player, Tools, NDK and beyond..."
-  description: "In this talk you will hear about the Intel tools for building Android Apps, how to build you native code with NDK to run on all platforms and finally how to develop for the new Android kid on the block, The Nexus Player."
-  language: tr
--
-  id: 134
-  speakers: [34]
-  title: "Phabricator: An all-in-one tool for code review, communication and task management"
-  description: "In this talk, we explore Phabricator which is created by Facebook engineers. It has most of the things that a team may need in order to develop software. It allows for agile development while scaling gracefully as the project grows."
-  language: tr
--
-  id: 135
-  speakers: [35]
-  title: "Wearable Runtime & Connectivity Architectures"
-  description: "We’re on the begging on the new era of computing devices. Wearables, probably, are one of the hottest topic now, with launch of Android Wear, Apple Watch and huge success of activity trackers like Nike Fuel or Jawbone everyone talks how cool or not they are. During this presentation we'll get back to early 2000 and check wearables evolution from totally geek devices to must have accessory for each hipster."
-  language: en
--
-  id: 141
-  speakers: [41]
-  title: "Create your own Smart Gadgets with Mobile Technologies"
-  description: "Making your own smart apps, machines, and robots by using the coolest technologies like Sensor Data, Face Recognition, Voice Recognition and etc. Learn how to merge power of software and electronics."
-  language: tr
--
-  id: 142
-  speakers: [42]
-  title: "What is Android Wear?"
-  description: "Do you want to warn your users infromed at the right time? Answer of this question is hidden in Android Wear. Most applications can easily improve the user experience with a small number of development. In this session you can learn What is Android, simple and complex notification design, and also how to develop sample Android Wear application."
-  language: tr
--
-  id: 143
-  speakers: [43]
-  title: "Google Cloud SQL"
-  description: "In the presentation, Google Cloud SQL, which is one of the Google Cloud Services, will be explained. The presentation supported by code examples intends to give particular informations about this technology."
-  language: tr
--
-  id: 144
-  speakers: [44]
-  title: "2D Endless Runner Platformer in Unity for Android & iOS"
-  description: "This talk will cover technical design choices, tips & tricks for creating an endless runner platformer for Android & iOS in Unity, with real examples from our own game Evliya Celebi: Olumsuzluk Suyu, which include: character controls, animations & state machine, level design & generation, performance optimisations, gui elements, cross-platform design, level editor"
-  language: tr
--
-  id: 145
-  speakers: [45]
-  title: "A new era"
-  description: "Begining of new era on mobile devices and mobile apps. Time to meet with these new gagdets"
-  language: tr
--
-  id: 146
-  speakers: [46]
-  title: "Software Craftsmanship: Building A Culture for The Future"
-  description: "Good software can only be developed by good developers. Even though 'being good' or 'success' have different meanings for everyone, something is certain: It's the culture that makes teams succeed, not the individuals. that Software Craftsmanship defines a culture for development teams where people builds not only software, but also themselfs. It is the new feeling of defining rules in software development. In this session, as the founder of software craftsmanship turkey community, I will describe what Software Craftsmanship is, why it is important and how it is different."
-  language: tr
--
-  id: 147
-  speakers: [47]
-  title: "Angular Kickstart"
-  description: "You Might Not Need jQuery! What is AngularJS? Front End Development with AngularJS. Recipes with AngularJS AngularJS. Performance Tricks Preview to Build App with AngularJS"
-  language: tr
--
-  id: 148
-  speakers: [48]
-  title: "Modern Development Makes Easy"
-  description: "However, as a developer, the environment of a development becomes vital because it determines the quality of your code. In the other way, the extra routines can be automated by some tools like Gulp/Grunt for automated tasks, Bower for dependency management, SASS for writing enjoyful CSS, Jade for more readable and unexhausted HTML and etc. This presentation aims telling the audience about how to develop something else easier as well."
-  language: tr
--
-  id: 149
-  speakers: [49]
-  title: "Next Generation GWT: JavaScript and Java alongside in Google Inbox"
-  description: "GWT has been tremendously successful in bringing the Java ecosystem into client side web applications, but looking at the web today there is a large and vibrant JavaScript ecosystem. Join us for this talk to learn which fundamental changes the GWT team at Google is making to support the next generation of applications at Google such as Google Inbox and Google spreadsheets. Developers will be able to painlessly reuse both the Java ecosystem as well as the JavaScript ecosystem for writing hybrid Web applications. Join us for this session to learn about our new JavaScript interoperability system, how it supports the new Web Components specification, a new, efficient, standardized RPC system for JavaScript/Java, how we make GWT code execute faster."
-  language: en
--
-  id: 249
-  speakers: [49]
-  title: "Polymer and GWT"
-  description: "Polymer and web components are a big shift in web development. Essentially this is GWT widgets built into the browser. Join me for this talk to learn what changes we are making to GWT to perfectly integrate with web components and Polymer and how the next generation of GWT applications will look like."
-  language: en
--
-  id: 150
-  speakers: [50]
-  title: "Web Application with Go"
-  description: "My presentation will be a beginner/intermediate introduction to web programming with Go. I will talk about web programming, other programming languages and tools and will mention emerging technologies such as Hadoop. Presentation will include many examples and code samples and I also plant it to be interactive with audience as much as possible."
-  language: en
--
-  id: 151
-  speakers: [51]
-  title: "Jelastic's Approach to Cloud Hosting"
-  description: "Jelastic solutions provide a fast deployment model and easy management for private, public and hybrid clouds, all while retaining the flexibility to customize infrastructure and application configurations."
-  language: tr
--
-  id: 152
-  speakers: [55,56]
-  title: "Android 101"
-  description: ""
-  language: tr
--
-  id: 153
-  speakers: [57]
-  title: "Understanding the Psychology Behind Game Design "
-  description: ""
-  language: tr
--
-  id: 154
-  speakers: []
-  title: "Intel Workshop"
-  description: ""
-  language: tr
--
-  id: 155
-  speakers: [58]
-  title: "Better UX for ATM"
-  description: ""
-  language: tr
--
-  id: 156
-  speakers: [52]
-  title: "Polymer"
-  description: ""
-  language: tr
--
-  id: 157
-  speakers: [53,54]
-  title: "Wearable Workshop"
-  description: ""
-  language: tr
--
-  id: 158
-  speakers: [3,4]
-  title: "Bitching App Clinic"
-  description: ""
-  language: en
--
-  id: 159
-  speakers: [33,54]
-  title: "Google Glass"
-  description: ""
-  language: tr
--
-  id: 160
-  speakers: [2,13]
-  title: "Java/HTML5/SVG/NetBeans Clinic and Demos"
-  description: ""
-  language: en
--
-  id: 161
-  speakers: [59,15]
-  title: "PHP Clinic"
-  description: ""
-  language: en
--
-  id: 162
-  speakers: []
-  title: "Minecraft Hacking for Kids"
-  description: ""
-  language: tr
+    id: 120
+    title: "Kayıt"
+    description: "Açılış Konuşması"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
