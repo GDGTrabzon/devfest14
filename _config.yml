@@ -76,7 +76,7 @@ latestNewsTitle: "Son haberler"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Rockstar Konuşmacılar"
 rockstarSpeakersButtonText: "Tüm konuşmacıları gör."
 
@@ -118,17 +118,17 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GDGTrabzon", icon: "google-plus"}
+ - {link: "https://plus.google.com/+GDGTrabzon61", icon: "google-plus"}
  - {link: "https://twitter.com/GDGTrabzon", icon: "twitter"}
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Linkler"
   links:
    - {link: "http://www.gdgtrabzon.com", text: "GDG Trabzon"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "İletişim"
   links:
    - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
