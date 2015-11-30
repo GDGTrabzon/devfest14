@@ -23,7 +23,7 @@ organizerLogo: "/img/organizers/GDG_Trabzon.svg"
 organizerLink: "http://gdgtrabzon.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, trabzon, devfesttrabzon"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, trabzon, devfesttrabzon, gdgx, devfestturkey"
 twitterAccount: "@GDGTrabzon"
 socialImageSrcGooglePlus: "/img/organizers/GDG_Trabzon.svg"
 socialImageSrcTwitter: "/img/organizers/GDG_Trabzon.svg"
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/organizers/GDG_Trabzon.svg"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Anasayfa"}
-# - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konusmacılar"}
  - {permalink: "/#partners", text: "Sponsorlar"}
 # - {permalink: "/organizers", text: "Organizatorler"}
@@ -51,37 +51,37 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2015"
-eventDate: "13 December, 2015"
-typeoutTextValues: '"", "Trabzon", "Workshops", "Conference", "Trabzon"'
+eventDate: "13 Aralık 2015"
+typeoutTextValues: '"", "Trabzon", "Konferans", "Türkiye"'
 typeoutFallback: "Season"
 heroButtons:
 # - {link: "http://devfesttrbzn15.eventbrite.com/", text: "Eventbrite"}
- - {permalink: "/#tickets", text: "Register to event"}
+ - {permalink: "/#tickets", text: "Etkinliğe Kaydol"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "GDG DevFest Hakkında"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related developer event in Trabzon carefully crafted for you by GDG community! Awesome speakers and lot's of fun! This time, right in the heart of Trabzon!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Konferans", image: "conference.jpg", text: "Gün Yazılım Günü ! Trabzon'da sizler için GDG ekibi ile hazırlanmış mükemmel bir etkinlik. Eğlenceli ve bir o kadar Profesyonel konuşmacılar. Bu sefer, Devfest'in kalbi Trabzon'da atacak." }
+# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "The answer to life, the universe and everything"}
+ - {count: "300", specialCharacter: "+", info: "katılımcı", detail: "heryerden"}
+ - {count: "6", info: "konuşmacı", detail: "ülkeden"}
 
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Son haberler"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Rockstar Konuşmacılar"
+rockstarSpeakersButtonText: "Tüm konuşmacıları gör."
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Konum"
 eventLocationName: "Prof. Dr. Osman Turan Culture and Congress Center"
 eventStreetAddress: "Karadeniz Teknik Üniversitesi, Trabzon"
 eventAddressLocality: "Trabzon"
@@ -101,17 +101,17 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizatörler"
+partnersTitle: "Sponsorlar"
+partnersC4sponsorsButton: "SPONSOR OL"
 
 # Tickets Block
-ticketsTitle: "Please Register"
+ticketsTitle: "Lütfen Kayıt olun"
 ticketsOffers:
  -
-  name: "Free Ticket"
+  name: "Ücretsiz Bilet"
   buyButtonLink: "http://devfesttrbzn15.eventbrite.com"
-  buyButtonText: "Register"
+  buyButtonText: "Hemen Al"
   validFrom: "2015-12-13T10:00"
   validThrough: "2015-12-13T23:59"
 
@@ -133,7 +133,7 @@ footerBlocks:
    - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Son Haberler"
 blogCommentsEnabled: false
 discusShortName: "devfestist"
 
@@ -157,11 +157,11 @@ logisticsMapMobileCenterCoordinates: "40.9986541, 39.7647572"
 
 # Logistics Direction Details Block
 directionDetailsImage: "backgroundtrbzn.jpg"
-directionDetailsTitle: "Get around Trabzon"
+directionDetailsTitle: "Trabzon ve Ulaşım"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is easily reachable by public transport.'}
- - {title: "Public Transit", information: 'More information will be provided here to directly go to the venue.'}
- - {title: "Hotels", information: 'Trabzon has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Havaalanından", information: 'Havaalanından etkinlik salonumuz sadece 20 dk yürüme mesafesindedir.'}
+ - {title: "Otogardan", information: 'Otogardan 30 dk yürüme mesafesindedir. İsterseniz yol üzerinden geçen Üniversite dolmuşlarına binebilirsiniz yada Beşirli-KTU Belediye Otobüslerinide kullanabilirsiniz.'}
+ - {title: "Otel", information: 'Kampüs içerisinde ve civarında oteller mevcuttur. Daha fazla bilgi için iletişime geçin.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
