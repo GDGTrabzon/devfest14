@@ -153,6 +153,7 @@
     speakers: [18]
     language: tr
     complexity: "Beginner"
+
 -
     id: 119
     title: "Açılış Konuşması"
@@ -169,3 +170,31 @@
     speakers: []
     language: tr
     complexity: "Beginner"
+
+    -
+    id: 130
+    title: "Duyurulacak"
+    description: "Duyurulacak"
+    subtype: presentation
+    speakers: []
+    language: tr
+    complexity: "Beginner"
+
+-
+  id: 150
+  speakers: [50]
+  title: "Web Application with Go"
+  description: "My presentation will be a beginner/intermediate introduction to web programming with Go. I will talk about web programming, other programming languages and tools and will mention emerging technologies such as Hadoop. Presentation will include many examples and code samples and I also plant it to be interactive with audience as much as possible."
+  language: en
+-
+  id: 151
+  speakers: [51]
+  title: "Jelastic's Approach to Cloud Hosting"
+  description: "Jelastic solutions provide a fast deployment model and easy management for private, public and hybrid clouds, all while retaining the flexibility to customize infrastructure and application configurations."
+  language: tr
+-
+  id: 152
+  speakers: [55,56]
+  title: "Android 101"
+  description: ""
+  language: tr

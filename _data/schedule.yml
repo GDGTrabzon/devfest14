@@ -17,17 +17,17 @@
     - {
     	startTime: "10:00",
     	endTime: "11:00",
-    	sessionIds: []
+    	sessionIds: [130]
     }
     - {
         startTime: "11:00",
         endTime: "12:10",
-        sessionIds: []
+        sessionIds: [130]
     }
     - {
         startTime: "12:00",
         endTime: "12:45",
-        sessionIds: []
+        sessionIds: [130]
     }
     - {
         startTime: "12:45",
@@ -37,20 +37,20 @@
     - {
         startTime: "14:00",
         endTime: "15:00",
-        sessionIds: []
+        sessionIds: [130]
     }
     - {
         startTime: "15:00",
         endTime: "16:00",
-        sessionIds: []
+        sessionIds: [130]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: []
+        sessionIds: [130]
     }
     - {
         startTime: "17:00",
         endTime: "17:15",
-        sessionIds: []
+        sessionIds: [130]
     }
