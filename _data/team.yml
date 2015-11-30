@@ -51,15 +51,3 @@
 #    - {name: "twitter", link: "https://twitter.com/lifeis00FF00"}
 #    - {name: "github", link: "https://github.com/aniliyidogan"}
 #    - {name: "linkedin", link: "https://tr.linkedin.com/in/aniliyidogan"}
-
-#-
-#  id: 4
-#  name: "Furkan"
-#  surname: "Mut"
-#  title: "Software Developer"
-#  thumbnailUrl: furkanm.jpg
-#  team: true
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
-#  social:
-#    - {name: "linkedin", link: "https://tr.linkedin.com/in/furkan-mut-758558aa"}
