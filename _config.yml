@@ -123,12 +123,12 @@ socialLinks:
  #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Linkler"
+  title: "Links"
   links:
    - {link: "http://www.gdgtrabzon.com", text: "GDG Trabzon"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "İletisim"
+  title: "Contacts"
   links:
    - {link: "mailto:info@gdgtrabzon.com", text: "info@gdgtrabzon.com"}
 
