@@ -90,9 +90,9 @@ eventAddressCountry: "Turkey"
 eventStartTime: "2015-12-13T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-12-13T17:00"
-eventPlaceCoordinates: "40.9986541, 39.8040901"
-mapCenterCoordinates: "40.9986541, 39.8040901"
-mapMobileCenterCoordinates: "40.9986541, 39.8040901"
+eventPlaceCoordinates: "40.9879693, 39.8047948"
+mapCenterCoordinates: "40.9879693, 39.8047948"
+mapMobileCenterCoordinates: "40.9879693, 39.8047948"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -152,8 +152,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "40.9878063, 39.8040901"
-logisticsMapMobileCenterCoordinates: "40.9878063, 39.8040901"
+logisticsMapCenterCoordinates: "40.9879693, 39.8047948"
+logisticsMapMobileCenterCoordinates: "40.9879693, 39.8047948"
 
 # Logistics Direction Details Block
 directionDetailsImage: "backgroundtrbzn.jpg"
