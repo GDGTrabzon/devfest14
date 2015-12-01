@@ -82,17 +82,17 @@ rockstarSpeakersButtonText: "Tüm konuşmacıları gör."
 
 # Location Block
 locationBlockTitle: "Konum"
-eventLocationName: "Prof. Dr. Osman Turan Culture and Congress Center"
-eventStreetAddress: "Karadeniz Teknik Üniversitesi, Trabzon"
+eventLocationName: "Anons edilecek"
+eventStreetAddress: "Avrasya Üniversitesi, Trabzon"
 eventAddressLocality: "Trabzon"
 eventAddressLocalityRegion: "Ortahisar"
 eventAddressCountry: "Turkey"
 eventStartTime: "2015-12-13T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-12-13T17:00"
-eventPlaceCoordinates: "40.9986541, 39.7647572"
-mapCenterCoordinates: "40.9986541, 39.7647572"
-mapMobileCenterCoordinates: "40.9986541, 39.7647572"
+eventPlaceCoordinates: "40.9986541, 39.8040901"
+mapCenterCoordinates: "40.9986541, 39.8040901"
+mapMobileCenterCoordinates: "40.9986541, 39.8040901"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -152,16 +152,16 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "40.9986541, 39.7647572"
-logisticsMapMobileCenterCoordinates: "40.9986541, 39.7647572"
+logisticsMapCenterCoordinates: "40.9878063, 39.8040901"
+logisticsMapMobileCenterCoordinates: "40.9878063, 39.8040901"
 
 # Logistics Direction Details Block
 directionDetailsImage: "backgroundtrbzn.jpg"
 directionDetailsTitle: "Trabzon ve Ulaşım"
 directionDetailsCards:
- - {title: "Havaalanından", information: 'Havaalanından etkinlik salonumuz sadece 20 dk yürüme mesafesindedir.'}
- - {title: "Otogardan", information: 'Otogardan 30 dk yürüme mesafesindedir. İsterseniz yol üzerinden geçen Üniversite dolmuşlarına binebilirsiniz yada Beşirli-KTU Belediye Otobüslerinide kullanabilirsiniz.'}
- - {title: "Otel", information: 'Kampüs içerisinde ve civarında oteller mevcuttur. Daha fazla bilgi için iletişime geçin.'}
+ - {title: "Havaalanından", information: 'Havaalanından etkinlik salonumuza taksi ile yada yolun karşısından geçen pelitli dolmuşları ile ulaşabilirsiniz.'}
+ - {title: "Otogardan", information: 'Otogardan pelitli dolmuşlarına binerek gelebilirsiniz.'}
+ - {title: "Otel", information: 'Kampüs civarında nezih oteller mevcuttur. Daha fazla bilgi için iletişime geçin.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
