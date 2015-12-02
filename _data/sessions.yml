@@ -16,6 +16,11 @@
   service: true
 
 -
+  id: 995
+  title: "Kapanış"
+  service: true
+
+-
   id: 600
   title: "Mobile Opportunities in Turkey"
   description: "Mobile Opportunities in Turkey"
