@@ -90,10 +90,10 @@ eventAddressCountry: "Turkey"
 eventStartTime: "2015-12-13T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-12-13T17:00"
-#eventPlaceCoordinates: "40.9879693, 39.8047948"
-#mapCenterCoordinates: "40.9879693, 39.8047948"
-#mapMobileCenterCoordinates: "40.9879693, 39.8047948"
-
+eventPlaceCoordinates: "0,0"
+mapCenterCoordinates: "0, 0"
+mapMobileCenterCoordinates: "0,0"
+#40.9879693  39.8047948
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
@@ -152,8 +152,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-#logisticsMapCenterCoordinates: "40.9879693, 39.8047948"
-#logisticsMapMobileCenterCoordinates: "40.9879693, 39.8047948"
+logisticsMapCenterCoordinates: "0,0"
+logisticsMapMobileCenterCoordinates: "0,0"
 
 # Logistics Direction Details Block
 directionDetailsImage: "backgroundtrbzn.jpg"
