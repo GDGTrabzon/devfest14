@@ -159,9 +159,12 @@ logisticsMapMobileCenterCoordinates: "0,0"
 directionDetailsImage: "backgroundtrbzn.jpg"
 directionDetailsTitle: "Trabzon ve Ulaşım"
 directionDetailsCards:
- #- {title: "Havaalanından", information: 'Havaalanından etkinlik salonumuza taksi ile yada yolun karşısından geçen pelitli dolmuşları ile ulaşabilirsiniz.'}
- #- {title: "Otogardan", information: 'Otogardan pelitli dolmuşlarına binerek gelebilirsiniz.'}
- #- {title: "Otel", information: 'Kampüs civarında nezih oteller mevcuttur. Daha fazla bilgi için iletişime geçin.'}
+ - {title: "Havaalanından", information: ''}
+ - {title: "Otogardan", information: ''}
+ - {title: "Otel", information: ''}
+#Havaalanından etkinlik salonumuza taksi ile yada yolun karşısından geçen pelitli dolmuşları ile ulaşabilirsiniz.
+#Otogardan pelitli dolmuşlarına binerek gelebilirsiniz.
+#Kampüs civarında nezih oteller mevcuttur. Daha fazla bilgi için iletişime geçin.
 
 # Hackathon
 hackathonTitle: "Hackathon"
