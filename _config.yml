@@ -82,18 +82,17 @@ rockstarSpeakersButtonText: "Tüm konuşmacıları gör."
 
 # Location Block
 locationBlockTitle: "Konum"
-eventLocationName: "Anons edilecek"
-eventStreetAddress: "Anons Edilecek"
+eventLocationName: "Avrasya Üniversitesi Ömer Yıldız Yerleşkesi"
+eventStreetAddress: "Yalıncak Mahallesi, Rize Cad. No: 125/1 Ortahisar / Trabzon"
 eventAddressLocality: "Trabzon"
-eventAddressLocalityRegion: ""
+eventAddressLocalityRegion: "İletişim 0462 335 50 00-01-02"
 eventAddressCountry: "Turkey"
 eventStartTime: "2015-12-13T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-12-13T17:00"
-eventPlaceCoordinates: "0,0"
-mapCenterCoordinates: "0, 0"
-mapMobileCenterCoordinates: "0,0"
-#40.9879693  39.8047948
+eventPlaceCoordinates: "40.983931,39.826947"
+mapCenterCoordinates: "40.983931, 39.826947"
+mapMobileCenterCoordinates: "40.983931,39.826947"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
@@ -152,20 +151,17 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "0,0"
-logisticsMapMobileCenterCoordinates: "0,0"
+logisticsMapCenterCoordinates: "40.983931, 39.826947"
+logisticsMapMobileCenterCoordinates: "40.983931, 39.826947"
 
 # Logistics Direction Details Block
-directionDetailsImage: "backgroundtrbzn.jpg"
+directionDetailsImage: "omeryildizbackground.jpg"
 directionDetailsTitle: "Trabzon ve Ulaşım"
 directionDetailsCards:
- - {title: "Havaalanından", information: ''}
- - {title: "Otogardan", information: ''}
- - {title: "Otel", information: ''}
-#Havaalanından etkinlik salonumuza taksi ile yada yolun karşısından geçen pelitli dolmuşları ile ulaşabilirsiniz.
-#Otogardan pelitli dolmuşlarına binerek gelebilirsiniz.
-#Kampüs civarında nezih oteller mevcuttur. Daha fazla bilgi için iletişime geçin.
-
+ - {title: "Havaalanından", information: 'Havaalanından sahil yoluna çıkarak, Rize tarafına giden yolda beklemeniz halinde Yomra Dolmuşlarını kullanabilirsiniz, 10 dk sonra Ömer Yıldız Yerleşkesine ulaşırsınız.'}
+ - {title: "Otogardan", information: 'Otogarın hemen önündeki duraktan Yomra Dolmuşlarını kullanarak, 15 dk içinde Ömer Yıldız Yerleşkesine ulaşabilirsiniz.'}
+ - {title: "Şehir Merkezinden", information: 'Şehir merkezinden(Meydandan) çömlekçiye inip, Yomra Dolmuşlarının kalkış yerini görebilirsiniz. Yaklaşık 25 dk içinde Ömer Yıldız Yerleşkesine ulaşırsınız.'}
+ - {title: "Otel", information: 'Ömer Yıldız Yerleşkesinin civarında Yalıncak bölgesinde oteller mevcuttur.'}
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: false
