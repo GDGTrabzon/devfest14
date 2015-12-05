@@ -23,7 +23,7 @@
   id: 994
   title: "Çay Arası"
   description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
-  language: tr
+  service: true
 
 
 -
