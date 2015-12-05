@@ -19,6 +19,12 @@
   id: 995
   title: "Kapanış"
   service: true
+-
+  id: 994
+  title: "Çay Arası"
+  description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
+  language: tr
+
 
 -
   id: 600
