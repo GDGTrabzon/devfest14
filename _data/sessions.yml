@@ -20,11 +20,10 @@
   title: "Kapanış"
   service: true
 -
-  id: 994
-  title: "Çay Arası"
-  description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
+  id: 307
+  title: "Kahve Arası"
   service: true
-
+  description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
 
 -
   id: 600
