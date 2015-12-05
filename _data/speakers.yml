@@ -9,6 +9,7 @@
   thumbnailUrl: SaidTahsinDane.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
+    - {abbr: "GDE", title: "Google Developer Expert"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+SaidTahsinDane"}
     - {name: "twitter", link: "https://twitter.com/tasomaniac"}
@@ -33,32 +34,32 @@
     - {name: "github", link: "https://github.com/busradeniz"}
     - {name: "site", link: "http://www.busradeniz.com"}
 
--
-  id: 2
-  name: "Halid"
-  surname: "Altuner"
-  title: "DevOps Engineer"
-  company: "Türksat A.Ş."
-  bio: ""
-  thumbnailUrl: HalidAltuner.jpg
-  social: 
-    - {name: "twitter", link: "https://twitter.com/halidaltuner"}
-    - {name: "linkedin", link: "https://tr.linkedin.com/in/halidaltuner"}
-    - {name: "github", link: "https://github.com/halid"}
-    - {name: "site", link: "http://halid.org/"}
+#-
+#  id: 2
+#  name: "Halid"
+#  surname: "Altuner"
+#  title: "DevOps Engineer"
+#  company: "Türksat A.Ş."
+#  bio: ""
+#  thumbnailUrl: HalidAltuner.jpg
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/halidaltuner"}
+#    - {name: "linkedin", link: "https://tr.linkedin.com/in/halidaltuner"}
+#    - {name: "github", link: "https://github.com/halid"}
+#    - {name: "site", link: "http://halid.org/"}
 
--
-  id: 3
-  name: "Oguz"
-  surname: "Yarimtepe"
-  title: "R&D Architect"
-  company: "Türksat A.Ş."
-  bio: ""
-  thumbnailUrl: OguzYarimtepe.jpg
-  social: 
-    - {name: "twitter", link: "https://twitter.com/oguzy"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/oguzyarimtepe"}
-    - {name: "github", link: "https://github.com/oguzy"}
+#-
+#  id: 3
+#  name: "Oguz"
+#  surname: "Yarimtepe"
+#  title: "R&D Architect"
+#  company: "Türksat A.Ş."
+#  bio: ""
+#  thumbnailUrl: OguzYarimtepe.jpg
+#  social: 
+#    - {name: "twitter", link: "https://twitter.com/oguzy"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/oguzyarimtepe"}
+#    - {name: "github", link: "https://github.com/oguzy"}
 #-
 #  id: 55
 #  name: "Vildan"
