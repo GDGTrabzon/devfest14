@@ -39,16 +39,14 @@
   language: tr
 -
   id: 101
-  speakers: [1]
-  title: "Web Development in Angular Way"
-  description: "In this talk, we are going to review that old cultural technic for front end development in Angular way and olso best parts of Angular futures."
-  language: tr
+  speakers: [0]
+  title: "Material Design on Custom Views"
+  description: "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class. In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance. I will also talk about how to apply Material Design in Custom Views with the support of older platform versions."
 -
   id: 102
-  speakers: [2]
-  title: "5 reasons why NetBeans should be in every developer's toolkit"
-  description: "If you have never heard of NetBeans, think that NetBeans is just a Java IDE, want to write better code, want to play with cool new technologies, or just want a better way to develop desktop applications quickly, this talk is for you.... I will give you a whistle stop tool of the multiple languages NetBeans supports, show you the built in examples and tools inside NetBeans for developing, testing and improving code, automating functions with netBeans, introduce you to the platform and show you how easy NetBeans makes it to build applications with very little code."
-  language: en
+  speakers: [1]
+  title: "Google WebRTC on Mobile"
+  description: "WebRTC is a new milestone in the evolution of the web. This technology allows us to quickly create real-time communication applications. Altough its main target is web browsers, WebRTC is becoming a popular real time communication technology used on mobile. By using WebRTC you can develop your own peer-to-peer video chat in a short amount of time. Also, WebRTC is very flexible, you can make calls to another networks that using offer/answer model, for example SIP protocol. In this presentation you can gain in-depth insights about how to implement WebRTC on iOS and Android mobile devices for a native experience."
 -
   id: 103
   speakers: [3]
