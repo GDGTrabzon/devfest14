@@ -33,6 +33,57 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/busradeniz"}
     - {name: "github", link: "https://github.com/busradeniz"}
     - {name: "site", link: "http://www.busradeniz.com"}
+-
+  id: 2
+  name: "Will be announced"
+  surname: " "
+  title: " "
+  company: " "
+  bio: " "
+  thumbnailUrl: anonymous.png
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+-
+  id: 3
+  name: "Will be announced"
+  surname: " "
+  title: " "
+  company: " "
+  bio: " "
+  thumbnailUrl: anonymous.png
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+
+-
+  id: 4
+  name: "Will be announced"
+  surname: " "
+  title: " "
+  company: " "
+  bio: " "
+  thumbnailUrl: anonymous.png
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+
+-
+  id: 5
+  name: "Will be announced"
+  surname: " "
+  title: " "
+  company: " "
+  bio: " "
+  thumbnailUrl: anonymous.png
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
+#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+
 
 #-
 #  id: 2
