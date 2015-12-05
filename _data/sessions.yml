@@ -21,8 +21,9 @@
   service: true
 -
   id: 307
-  title: "Kahve Arası"
+  title: "Çay Arası"
   service: true
+  place: "Etkinlik Alanı"
   description: "Konuşmacılar ve diğer katılımcılarla konuşmak için en iyi zaman"
 
 -
