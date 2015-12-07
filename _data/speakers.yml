@@ -47,30 +47,19 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/oguzyarimtepe"}
     - {name: "github", link: "https://github.com/oguzy"}
 
-#-
-#  id: 2
-#  name: "Will be announced"
-#  surname: " "
-#  title: " "
-#  company: " "
-#  bio: " "
-#  thumbnailUrl: anonymous.png
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
-#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
 -
   id: 3
-  name: "Will be announced"
-  surname: " "
-  title: " "
-  company: " "
-  bio: " "
-  thumbnailUrl: anonymous.png
+  name: "Emre"
+  surname: "Efendioğlu"
+  title: "Owner, Unicrow"
+  company: "Unicrow"
+  bio: ""
+  thumbnailUrl: emreefendioglu.jpg
   social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
-#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+    - {name: "twitter", link: "https://twitter.com/emreefendioglu"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/h-emre-efendio%C4%9Flu-a140ba22"}
+    - {name: "github", link: "https://github.com/emreefendioglu"}
+
 
 -
   id: 4
