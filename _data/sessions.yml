@@ -49,10 +49,9 @@
   description: "WebRTC is a new milestone in the evolution of the web. This technology allows us to quickly create real-time communication applications. Altough its main target is web browsers, WebRTC is becoming a popular real time communication technology used on mobile. By using WebRTC you can develop your own peer-to-peer video chat in a short amount of time. Also, WebRTC is very flexible, you can make calls to another networks that using offer/answer model, for example SIP protocol. In this presentation you can gain in-depth insights about how to implement WebRTC on iOS and Android mobile devices for a native experience."
 -
   id: 103
-  speakers: [3]
-  title: "Succeed with your Android application."
-  description: "Most apps fail, and it can happen to your Android application too. So what do I need to do to make it a success? This talk will (hopefully) give you a insight on how to prevent the pitfall of failure, and show you what you need to take in consideration when developing your Android app."
-  language: en
+  speakers: [2]
+  title: "A new trend in virtualization: Containers - Docker"
+  description: "You might have been hearing about containers in general and Docker in particular non-stop for over a year now. All the noise is coming up because companies are adopting Docker at a remarkable rate. New tools working on Docker are on the market and with the power of open source world, there are many solutions being developed related with Docker. At the same time, Docker, an open-source technology, isn't just the darling of Linux powers such as Red Hat and Canonical. Proprietary software companies such as  Microsoft have also embraced Docker Although we have KVM, XEN, Vmware as other virtualization technologies, especially cloud providers, software companies are starting to use it at in-house problems and at the production level solutions. So why does everyone love Docker? The presentation will start with answering this question, will continue with Docker structure, how it works, use cases and with some tools that can be helpfull to your daily usage. The talk will also cover the success stories."
 -
   id: 104
   speakers: [4,3]
