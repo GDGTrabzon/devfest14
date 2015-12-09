@@ -158,6 +158,7 @@ logisticsMapMobileCenterCoordinates: "40.983931, 39.826947"
 directionDetailsImage: "omeryildizbackground.jpg"
 directionDetailsTitle: "Trabzon ve Ulaşım"
 directionDetailsCards:
+ - {title: "KTU'den" informatin: "KTU'den 09:00'da Bilgisayar Mühendisliği Bölümü önünden otobüs kalkacaktır."}
  - {title: "Havaalanından", information: 'Havaalanından sahil yoluna çıkarak, Rize tarafına giden yolda beklemeniz halinde Yomra Dolmuşlarını kullanabilirsiniz, 10 dk sonra Ömer Yıldız Yerleşkesine ulaşırsınız.'}
  - {title: "Otogardan", information: 'Otogarın hemen önündeki duraktan Yomra Dolmuşlarını kullanarak, 15 dk içinde Ömer Yıldız Yerleşkesine ulaşabilirsiniz.'}
  - {title: "Şehir Merkezinden", information: 'Şehir merkezinden(Meydandan) çömlekçiye inip, Yomra Dolmuşlarının kalkış yerini görebilirsiniz. Yaklaşık 25 dk içinde Ömer Yıldız Yerleşkesine ulaşırsınız.'}
