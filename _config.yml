@@ -162,7 +162,7 @@ directionDetailsCards:
  - {title: "Havaalanından", information: 'Havaalanından sahil yoluna çıkarak, Rize tarafına giden yolda beklemeniz halinde Yomra Dolmuşlarını kullanabilirsiniz, 10 dk sonra Ömer Yıldız Yerleşkesine ulaşırsınız.'}
  - {title: "Otogardan", information: 'Otogarın hemen önündeki duraktan Yomra Dolmuşlarını kullanarak, 15 dk içinde Ömer Yıldız Yerleşkesine ulaşabilirsiniz.'}
  - {title: "Şehir Merkezinden", information: 'Şehir merkezinden(Meydandan) çömlekçiye inip, Yomra Dolmuşlarının kalkış yerini görebilirsiniz. Yaklaşık 25 dk içinde Ömer Yıldız Yerleşkesine ulaşırsınız.'}
- - {title: "Otel", information: 'Ömer Yıldız Yerleşkesinin civarında Yalıncak bölgesinde oteller mevcuttur.'}
+# - {title: "Otel", information: 'Ömer Yıldız Yerleşkesinin civarında Yalıncak bölgesinde oteller mevcuttur.'}
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: false
