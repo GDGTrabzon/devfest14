@@ -50,43 +50,48 @@
 -
   id: 3
   name: "Emre"
-  surname: "Efendioğlu"
-  title: "Owner, Unicrow"
+  surname: "Efendioglu"
+  title: "Full-Stack developer"
   company: "Unicrow"
-  bio: ""
+  bio: "Co-Founder of Unicrow which is founded in 2010. Full-Stack developer who is mostly experienced on Python, Node.js, JavaScript and Swift. Eager to learn and try new technologies and use some of them in his projects."
   thumbnailUrl: emreefendioglu.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/emreefendioglu"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/h-emre-efendio%C4%9Flu-a140ba22"}
     - {name: "github", link: "https://github.com/emreefendioglu"}
 
-
 -
   id: 4
-  name: "Will be announced"
-  surname: " "
-  title: " "
-  company: " "
-  bio: " "
-  thumbnailUrl: anonymous.png
+  name: "Resul Caner"
+  surname: "Yıldırım"
+  title: "UX Designer"
+  company: "GDG Istanbul"
+  bio: "Basically a technology geek. Focused on the marketing and design of mobile applications. Passionate about marketing, UX, IoT and Android. Since 2012, he has been writing technology news and articles on protechman.net Co-organiser of the Google Developer Group Istanbul & Chief Problem Solver of Mobil Istanbul. Speaks at conferences about marketing and UX. Also known as Protechman."
+  thumbnailUrl: resul_caner_yildirim.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Groups Istanbul", url: "http://www.gdgistanbul.com"}
   social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
-#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RCanerYıldırım/"}
+    - {name: "twitter", link: "https://twitter.com/protechman"}
+    - {name: "github", link: "https://github.com/protechman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/protechman"}
+    - {name: "site", link: "http://www.protechman.net/"}
 
 -
   id: 5
-  name: "Will be announced"
-  surname: " "
-  title: " "
-  company: " "
-  bio: " "
-  thumbnailUrl: anonymous.png
+  name: "Oytun Eren"
+  surname: "Sengul"
+  title: "Google Developer Expert on UX"
+  company: "Google"
+  bio: "He is interested in everything related to mobile, community, operating systems and kernels. Currently, he’s working on mobile UX projects and is the Business & Communications Director at Userspots. Proudly member of Linux Foundation and is a contributor in Intel Software projects. He is one of the developers of Automotive Grade Linux. Currently, working on SLP and presents his studies on various conferences. He took part in various Smartface Inc., Nokia and Turkcell projects as a Community Manager. I’ve started with Maemo and MeeGo, but now I’m developing for iOS, Android, Windows Phone and Tizen."
+  thumbnailUrl: oytunerensengul.jpg
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert"}
   social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/101075787936951189536/"}
-#    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=847054366"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=189715005&trk=spm_pic"}
-
+    - {name: "google-plus", link: "https://plus.google.com/108497665620300512154"}
+    - {name: "twitter", link: "https://twitter.com/oytunatlinux"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/oytuneren"}
+    - {name: "site", link: "http://oytuneren.net/"}
 
 #-
 #  id: 2
