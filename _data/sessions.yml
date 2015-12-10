@@ -54,22 +54,19 @@
   description: "You might have been hearing about containers in general and Docker in particular non-stop for over a year now. All the noise is coming up because companies are adopting Docker at a remarkable rate. New tools working on Docker are on the market and with the power of open source world, there are many solutions being developed related with Docker. At the same time, Docker, an open-source technology, isn't just the darling of Linux powers such as Red Hat and Canonical. Proprietary software companies such as  Microsoft have also embraced Docker Although we have KVM, XEN, Vmware as other virtualization technologies, especially cloud providers, software companies are starting to use it at in-house problems and at the production level solutions. So why does everyone love Docker? The presentation will start with answering this question, will continue with Docker structure, how it works, use cases and with some tools that can be helpfull to your daily usage. The talk will also cover the success stories."
 -
   id: 104
-  speakers: [4,3]
-  title: "The hitchhiker's guide to functional testing"
-  description: "Android development and testing go hand in hand. When it comes to automated functional testing there are plenty of frameworks out there. During this interactive session Wiebe and Ali will be presenting a fine selection that could help you decide what to use in your next project. Some of the frameworks they will talk about are Robotium, Robolectric, UIAutomator, Calabash, Selendroid and Espresso. And since it’s a developer conference there will be code as well!"
-  language: en
+  speakers: [3]
+  title: "The Magic World of JavaScript"
+  description: ""
 -
   id: 105
-  speakers: [5]
-  title: "PrimeTime JSF with PrimeFaces"
-  description: "JavaServer Faces provides a powerful infrastructure for building RIA applications rapidly with Java EE. Combined with PrimeFaces, JSF unleashes its true power. This session takes you on a tour of the latest version of PrimeFaces—featuring a rich set of components, powerful Ajax APIs, a mobile web application RenderKit, the dialog framework, extensive client-side validation, a real-time push framework, and live scrolling—and explores the roadmap to JSF heaven."
-  language: tr
+  speakers: [4]
+  title: "User Experience for Wearables"
+  description: ""
 -
   id: 106
-  speakers: [6]
-  title: "Single Page JavaScript Applications"
-  description: "See full JavaScript single page web & mobile applications on the stage from development from production."
-  language: tr
+  speakers: [5]
+  title: "Mobil Tasarım Trendleri"
+  description: ""
 -
   id: 107
   speakers: [7]
